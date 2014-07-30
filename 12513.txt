@@ -1,0 +1,5046 @@
+The Project Gutenberg EBook of A Classification and Subject Index for
+Cataloguing and Arranging the Books and Pamphlets of a Library [Dewey Decimal Classification], by Melvil Dewey
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: A Classification and Subject Index for Cataloguing and Arranging the Books and Pamphlets of a Library [Dewey Decimal Classification]
+
+Author: Melvil Dewey
+
+Release Date: June 4, 2004 [EBook #12513]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK DEWEY DECIMAL CLASSIFICATION ***
+
+
+
+
+Produced by Suzanne Shell, Lesley Halamek and PG Distributed Proofreaders
+
+
+
+
+
+DEWEY DECIMAL CLASSIFICATION
+
+CENTENNIAL 1876-1976
+
+Facsimile reprinted
+
+by
+
+Forest Press Division
+Lake Placid Educational Foundation
+
+*  *  *
+
+Printed and Bound
+Kingsport Press, Inc.
+KINGSPORT, TENNESSEE
+
+
+
+
+
+A
+
+CLASSIFICATION
+
+AND
+
+SUBJECT INDEX
+
+FOR
+
+CATALOGUING AND ARRANGING
+
+THE
+
+BOOKS AND PAMPHLETS
+
+OF A
+
+LIBRARY.
+
+       *       *       *       *       *
+
+AMHERST, MASS.
+1876.
+
+
+
+
+COPYRIGHTED
+
+1876
+
+MELVIL DEWEY
+
+
+
+
+PREFACE.
+
+
+The plan of the following Classification and Index was developed early in
+1873. It was the result of several months' study of library economy as
+found in some hundreds of books and pamphlets, and in over fifty personal
+visits to various American libraries. In this study, the author became
+convinced that the usefulness of these libraries might be greatly
+increased without additional expenditure. Three years practical use of
+the system here explained, leads him to believe that it will accomplish
+this result; for with its aid, the catalogues, shelf lists, indexes, and
+cross-references essential to this increased usefulness, can be made more
+economically than by any other method which he has been able to find.
+The system was devised for cataloguing and indexing purposes, but it was
+found on trial to be equally valuable for numbering and arranging books
+and pamphlets on the shelves.
+
+The library is first divided into nine special libraries which are called
+Classes. These Classes are Philosophy, Theology, &c., and are numbered
+with the nine digits. Thus Class 9 is the Library of History; Class 7,
+the Library of Fine Art; Class 2, the Library of Theology. These special
+libraries or Classes are then considered independently, and each one is
+separated again into nine special Divisions of the main subject. These
+Divisions are numbered from 1 to 9 as were the Classes. Thus 59 is the
+9th Division (Zoology) of the 5th Class (Natural Science). A final
+division is then made by separating each of these Divisions into nine
+Sections which are numbered in the same way, with the nine digits. Thus
+513 is the 3d Section (Geometry) of the 1st Division (Mathematics) of the
+5th Class (Natural Science). This number, giving Class, Division, and
+Section, is called the Classification or Class Number, and is applied to
+every book or pamphlet belonging to the library. All the Geometries
+are thus numbered 513, all the Mineralogies 549, and so throughout the
+library, all the books on any given subject bear the number of that
+subject in the scheme. Where a 0 occurs in a class number, it has its
+normal zero power. Thus, a book numbered 510, is Class 5, Division 1,
+but _no_ Section. This signifies that the book treats of the Division 51
+(Mathematics) in general, and is not limited to any one Section, as is
+the Geometry, marked 513. If marked 500, it would indicate a treatise on
+Science in general, limited to _no_ Division. A zero occurring in the
+first place would in the same way show that the book is limited to
+_no_ Class. The classification is mainly made by subjects or content
+regardless of _form_; but it is found practically useful to make an
+additional distinction in these general treatises, according to the form
+of treatment adopted. Thus, in Science we have a large number of books
+treating of Science in general, and so having a 0 for the Division
+number. These books are then divided into Sections, as are those of the
+other Classes according to the form they have taken on. We have the
+Philosophy and History of Science, Scientific Compends, Dictionaries,
+Essays, Periodicals, Societies, Education, and Travels,--all having the
+common subject, =NATURAL SCIENCE=, but treating it in these varied forms.
+These form distinctions are introduced here because the number of general
+works is large, and the numerals allow of this division, without extra
+labor for the numbers from 501 to 509 would otherwise be unused. They
+apply _only_ to the general treatises, which, without them, would have a
+class number ending with two zeros. A Dictionary of Mathematics is 510,
+not 503, for every book is assigned to the _most specific head that will
+contain it_, so that 503 is limited to Dictionaries or Cyclopedias of
+Science _in general_. In the same way a General Cyclopedia or Periodical
+treats of no one class, and so is assigned to the Class 0. These books
+treating of no special class, but general in their character, are divided
+into Cyclopedias, Periodicals, etc. No difficulty is found in following
+the arithmetical law and omitting the initial zero, so these numbers are
+printed 31, 32, etc., instead of 031, 032, etc.
+
+The selection and arrangement of the thousand headings of the
+classification cannot be explained in detail for want of space. In all
+the work, philosophical theory and accuracy have been made to yield
+to practical usefulness. The impossibility of making a satisfactory
+classification of all knowledge as preserved in books, has been
+appreciated from the first, and nothing of the kind attempted.
+Theoretical harmony and exactness has been repeatedly sacrificed to
+the practical requirements of the library or to the convenience of the
+department in the college. As in every scheme, many minor subjects have
+been put under general heads to which they do not strictly belong. In
+some cases these headings have been printed in a distinctive type, e. g.,
+429 =Anglo-Saxon=, under =ENGLISH PHILOLOGY=. The rule has been to assign
+these subjects to the most nearly allied heads, or where it was thought
+they would be most useful. The only alternative was to omit them
+altogether. If any such omission occurs, it is unintentional and will be
+supplied as soon as discovered. Wherever practicable the heads have been
+so arranged that each subject is preceded and followed by the most nearly
+allied subjects and thus the greatest convenience is secured both in
+the catalogues and on the shelves. Theoretically, the division of every
+subject into just nine heads is absurd. Practically, it is desirable that
+the classification be as minute as possible without the use of additional
+figures, and the decimal principle on which our scheme hinges allows nine
+divisions as readily as a less number. This principle has proved
+wholly satisfactory in practice though it appears to destroy proper
+co-ordination in some places. It has seemed best in our library to use
+uniformly three figures in the class number. This enables us to classify
+certain subjects very minutely, giving, for example, an entire section to
+Chess. But the History of England has only one section, as our scheme
+is developed, and thus the two might be said to be co-ordinated. The
+apparent difficulty in such cases is entirely obviated by the use of a
+fourth figure, giving nine sub-sections to any subject of sufficient
+importance to warrant closer classification. In history where the
+classification is made wholly by countries, a fourth figure is added to
+give a division into _periods_. As the addition of each figure gives a
+ten-fold division, any desired degree of minuteness may be secured in the
+classing of special subjects. The apparent lack of co-ordination arises
+from the fact that only the first three figures of these more important
+heads are as yet printed, the fourth figure and the sub-sections being
+supplied on the catalogues in manuscript. Should the growth of any of
+these sub-sections warrant it, a fifth figure will be added, for the
+scheme admits of expansion without limit.
+
+The arrangement of headings has been sometimes modified to secure a
+mnemonic aid in numbering and finding books without the Index. For
+instance, the scheme is so arranged that China has always the number 1.
+In Ancient History, it has the first section, 931: in Modern History,
+under Asia, it has 951: in Philology, the Chinese language appears as
+491. After the same manner the Indian number is 2; Egyptian, 4; English,
+2; German, 3; French, 4; Italian, 5; Spanish, 6; European, 4; Asian, 5;
+African, 6; North American, 7; South American, 8; and so for all the
+divisions by languages or countries. The Italian 5, for instance, will
+be noticed in 35, 55, 450, 755, 850, and 945. This mnemonic principle is
+specially prominent in Philology and Literature and their divisions, and
+in the _form_ distinctions used in the first 9 sections of each class.
+Materials, Methods, or Theory occurring anywhere as a head, bears always
+the number 1. Dictionaries and Cyclopedias, 3; Essays, 4; Periodicals, 5;
+Associations, Institutions, and Societies, 6; Education, 7; Collections,
+9. In the numerous cases where several minor heads have been grouped
+together under the head Other, it always bears the number 9. Wherever
+practicable, this principle is carried out in sub-dividing the sections.
+For instance, the Geology of North America, which bears the number 557 is
+sub-divided by adding the _sections_ of 970 (History of North America).
+The Geology of Mexico then bears the number 5578: mnemonically, the first
+5 is the Science number; the second 5, Geology; the 7, North America; and
+the 8, Mexico. Any library attendant or reader after using the scheme a
+short time will recognize at a glance, any catalogue or ledger entry,
+book or pamphlet, marked 5578 as something on the Geology of Mexico.
+Users of the scheme will notice this mnemonic principle in several
+hundred places in the classification, and will find it of great practical
+utility in numbering and finding books without the aid of Catalogue or
+Index, and in determining the character of any book simply from its call
+number as recorded on the book, on all its catalogue and cross reference
+cards, on the ledger, and in the check box.
+
+In naming the headings, brevity has been secured in many cases at the
+sacrifice of exactness. It was thought more important to have short,
+familiar titles for the headings than that the names given should express
+with fullness and exactness the character of all books catalogued under
+them. Many subjects, apparently omitted, will be found in the Index,
+assigned, with allied subjects, to a heading which bears the name of the
+most important only. Reference to this Subject Index will decide at once
+any doubtful points.
+
+In arranging books in the classification, as in filling out the scheme,
+practical usefulness has been esteemed the most important thing. The
+effort has been to put each book under the subject to the student of
+which it would be most useful. The content or the real subject of which
+a book treats, and not the form or the accidental wording of the title,
+determines its place. Following this rule, a Philosophy of Art is
+put with Art, not with Philosophy; a History of Mathematics, with
+Mathematics, not with History; for the philosophy and history are simply
+the _form_ which these books have taken. The true content or subject is
+Art, and Mathematics, and to the student of these subjects they are most
+useful. The predominant tendency or obvious purpose of the book, usually
+decides its class number at once; still many books treat of two or more
+different subjects, and in such cases it is assigned to the place where
+it will be most useful, and underneath the class number are written the
+numbers of any other subjects on which it also treats. These _Cross
+References_ are given both on the plate and the subject card as well
+as on the cross reference card. If a book treats of a majority of the
+sections of any division, it is given the Division number instead of the
+most important Section number with cross references.
+
+Collected works, libraries, etc., are either kept together and assigned
+like individual books to the most specific head that will contain them;
+or assigned to the most prominent of the various subjects on which they
+treat with cross references from the others; or are separated and the
+parts classed as independent works. Translations are classed with their
+originals.
+
+The Alphabetical Subject Index is designed to guide, both in numbering
+and in finding the books. In numbering, the most specific head that will
+contain the book having been determined, reference to that head in the
+Index will give the class number to which it should be assigned. In
+finding books on any given subject, reference to the Index will give the
+number under which they are to be sought on the shelves, in the Shelf
+Catalogue, or in the Subject Catalogue. The Index gives after each
+subject the number of the class to which it is assigned. Most names of
+countries, towns, animals, plants, minerals, diseases, &c, have been
+omitted, the aim being to furnish an Index of Subjects on which books
+are written, and not a Gazetteer or a Dictionary of all the nouns in the
+language. Such subjects will be found as special chapters or sections
+of books on the subjects given in the Index. The names of individual
+subjects of biographies will be found in the Class List of Biography.
+Omissions of any of the more general subjects will be supplied when
+brought to notice.
+
+In arranging the books on the shelves, the absolute location by shelf and
+book number is wholly abandoned, the relative location by class and book
+number being one of the most valuable features of the plan. The class
+number serves also as the location number and the shelf number in common
+use is entirely dispensed with. Accompanying the class number is the
+_book_ number, which prevents confusion of different books on the same
+subject. Thus the first Geometry catalogued is marked 513-1; the second
+513-2, and so on to any extent, the last number showing how many books
+the library has on that subject. The books of each section are all
+together, and arranged by book numbers, and these sections are also
+arranged in simple numerical order throughout the library. The call
+number 513-11 signifies not the 11th book on shelf 513; or alcove 5,
+range 1, shelf 3, as in most libraries, but signifies the 11th book in
+subject 513 or the 11th Geometry belonging to the library. In finding the
+book, the printed numbers on the backs are followed, the upper being the
+class and the lower the book number. The class is found in its numerical
+order among the classes as the shelf is found in the ordinary system: the
+book in its numerical order in the class. The shelves are not numbered,
+as the increase of different departments, the opening of new rooms, and
+any arrangement of classes to bring the books most circulated nearest to
+the delivery desk, will bring different class numbers on a given shelf.
+New books as received are numbered and put into place, in the same way
+that new titles are added to the card catalogue.
+
+The single digit occasionally prefixed to the book number, e.g. the 3 in
+421-3-7 is the nearest height in decimeters of books too large to be put
+on the regular library shelves, which are only 2-1/2 decimeters apart.
+The great mass of the library consists of 2-decimeter books, the size
+numbers of which are omitted. Books from 2-1/2 to 3-1/2 decimeters in
+height have 3 prefixed to the book number, and are found on the bottom
+shelf of each range. The larger sizes are prefixed with 4, 5, &c., and
+are found on the special shelves provided, in order to avoid the great
+waste of space otherwise occasioned by the relative location. By this use
+of the size numbers a close economy of space is secured.
+
+Thus all the books on any given subject are found standing together, and
+no additions or changes ever separate them. Not only are all the books on
+the subject sought, found together, but the most nearly allied subjects
+precede and follow, they in turn being preceded and followed by other
+allied subjects as far as practicable. Readers not having access to the
+shelves find the short titles arranged in the same order on the Shelf
+Catalogue, and the full titles, imprints, cross references, notes, &c.,
+on the Subject Catalogue. The uncatalogued pamphlets treating of any
+subject bear the same class number and are arranged on the shelves
+immediately after the books of each section.
+
+In both the Authors' Catalogue and the Subject Index, brevity has been
+studied because of the economy, but more because of the much greater
+ease of reference to a short title catalogue. The custom of giving full
+titles, etc., under authors, and only references or very brief titles
+under subjects, has been reversed. A reader seeking a book of a _known
+author_, in the vast majority of cases, wants simply the number by which
+to call for it, and can find it much sooner in a brief title catalogue.
+In the rare cases where more is needed the class number refers instantly
+to all these facts on the cards. On the other hand, a reader
+seeking books on a _known subject_, needs the full title, imprint,
+cross-references, and notes, to enable him to choose the book best suited
+to his wants.
+
+The Subject Catalogue is a full title Shelf List on cards and is for the
+use of the public. The Shelf List is a short title Subject Catalogue in
+book form, made of separate sheets laced into an Emerson binder, and is
+for official use. We thus have without extra labor, both full and short
+title Subject Catalogues and Shelf Lists. The public Authors' Catalogue
+is a printed volume; the official Authors' Catalogue or Index is on
+cards. As a result each of the public Catalogues is checked by an
+official Catalogue; each of the card Catalogues by a book Catalogue; each
+of the brief title catalogues by a full title catalogue--an advantage
+that will be appreciated by all librarians desiring accuracy of
+administration and catalogues.
+
+The Arabic numerals can be written and found more quickly, and with
+less danger of confusion or mistake, than any other symbols whatever.
+Therefore the Roman numerals, capitals and small letters, and similar
+symbols usually found in systems of classification are entirely discarded
+and by the exclusive use of Arabic numerals in their regular order
+throughout the shelves, classifications, indexes, catalogues and records,
+there is secured the greatest accuracy, economy, and convenience. This
+advantage is specially prominent in comparison with systems where the
+name of the author or the title must be written in calling for or
+charging books and in making references.
+
+Throughout the catalogues the number of a book shows not only _where_
+it is but _what_ it is. On the library accounts the character of each
+person's reading is clearly indicated by the numbers charged, and the
+minutest statistics of circulation in any subject are made by simply
+counting the call slips in the check box, and recording the number
+against the class number in the record.
+
+By the use of size numbers the greatest possible economy of space may be
+secured, for the size distinction may be made for every inch or even less
+if desired, and this without additional labor, as it will be seen that
+the size figure, when introduced, requires one less figure in the book
+number, and so does not increase the number of digits as would at first
+appear.
+
+Parts of sets, and books on the same or allied subjects, are never
+separated as they are sure to be, sooner or later, in every library
+arranged on the common plan, unless it be frequently re-arranged and
+re-catalogued. The great expense of this re-cataloguing makes it
+impracticable except for a few very wealthy libraries. In this system
+the catalogue and book numbers remain unchanged through all changes of
+shelving, buildings, or arrangement. In addition to its own peculiar
+merits, this plan has all the advantages of the card catalogue principle
+and of the relative location, which have been used and very strongly
+approved by prominent libraries.
+
+As in the card catalogue system, there is room for indefinite expansion
+without devices or provisions. Space is the only requisite and if the
+shelf room is exhausted, the floor space is equally good, except for the
+inconvenience of stooping.
+
+Some prominent opponents of classed catalogues have admitted that the
+Subject Index, in deciding where to class a book at first, and where to
+look for it ever afterwards, has removed their strongest objections.
+Certainly it would be impossible to make an Index more cheaply or more
+easy of reference, it being a single alphabet, of single words, followed
+by single numbers.
+
+These class numbers applied to pamphlets have proved specially
+satisfactory. The number is written on the upper left corner and the
+pamphlets are arranged either in pamphlet cases with the books on
+the same subject or on special shelves divided every decimeter by
+perpendicular sections. As each pamphlet is examined when received into
+the library, it is the work of a single moment to pencil on it its
+class number. There is no expense whatever incurred, and yet the entire
+pamphlet resources of the library on any subject can be produced almost
+instantly. The immense advantages of this plan over those in common use,
+both in economy and usefulness, will be appreciated by every librarian
+caring for a pamphlet collection. A catalogue of authors may be made
+on slips if desired. The pamphlets themselves are the best Subject
+Catalogue.
+
+Though designed wholly for library use, the plan has proved of great
+service in preserving newspaper clippings in large envelopes arranged
+by class numbers; and more especially in taking the place of the common
+note-book and Index Rerum. Slips of uniform size are used with the class
+number of the subject written on the corner. Minute alphabetical headings
+are used under each class number, the slips being arranged in numerical
+order like the Subject Card Catalogue. Clippings and notes arranged in
+this way are at all times their own complete index, and have the same
+advantages over the common scrap and note-books that the Subject
+Catalogue has over the Accessions Book, in looking up the resources of
+the library on any given subject. Those who have tried this method are
+so enthusiastic in its praise that it seemed worthy of mention in this
+place.
+
+The plan was adopted in the Amherst College Library in 1873, and the
+work of transferring the entire library to the new catalogue at once
+commenced. It was found entirely practicable to make the change
+gradually, as means allowed, without interfering in any appreciable
+degree with the circulation of the books. The three years trial to which
+it has been there subjected has more than justified the claims of its
+friends, and it is now printed with the more confidence on this account.
+It has been kept in manuscript up to this time, in order that the many
+minor details might be subjected to actual trial and modified where
+improvement was possible. The labor involved in preparing the
+Classification and Index has been wholly beyond the appreciation of any
+who have never attempted a similar task. Much valuable aid has been
+rendered by specialists in many departments, and nearly every member of
+the Faculty has given advice from time to time. Among the many to whom
+thanks are due, special mention should be made of Mr. C.A. Cutter, the
+librarian of the Boston Athenaeum, and Mr. John Fiske, of the Harvard
+University library, for valuable suggestions and appreciative criticism.
+While these friends are in no way responsible for any remaining
+imperfections in the scheme, they should have credit for many
+improvements which have been made during these three years of revision.
+The essential character of the plan has remained unchanged from the
+first. Doubtless other improvements are still possible, and it is hoped
+that users of the scheme will call attention to any proposed change in
+the naming or arrangement of the headings, or to any omission which
+should be supplied in the Subject Index.
+
+Before printing, the plan was submitted to quite a number of librarians
+for criticism. Among the hundreds of points raised as to its practical
+workings and usefulness there was only one in which it was not shown to
+be equal or superior to any other system known. This objection applied
+only to the arrangement on the shelves; not at all to the catalogues or
+indexes. It was, that in this relative location, a book which this year
+stands, e.g., at the end of a certain shelf; may not be on that shelf
+at all another year, because of the uneven growth of the parts of the
+library. This slight objection inheres in any system where the books
+are arranged by _subjects_ rather than by windows, doors, shelves, and
+similar non-intellectual distinctions.
+
+In this hurriedly prepared account of his plan, the author has doubtless
+failed to meet many objections which may be raised and which he could
+easily answer. He would therefore ask the privilege of replying
+personally to any such objections, where they arise, believing that it
+will be possible to answer, if not all, at least a very large proportion.
+
+In his varied reading, correspondence, and conversation on the subject,
+the author doubtless received suggestions and gained ideas which it is
+now impossible for him to acknowledge. Perhaps the most fruitful source
+of ideas was the _Nuovo Sistema di Catalogo Bibliografico Generale_ of
+Natale Battezzati, of Milan. Certainly he is indebted to this system
+adopted by the Italian publishers in 1871, though he has copied nothing
+from it. The plan of the St. Louis Public School Library, and that of the
+Apprentices' Library of New York, which in some respects resemble his
+own, were not seen till all the essential features were decided upon,
+though not given to the public. In filling the nine classes of the scheme
+the inverted Baconian arrangement of the St. Louis Library has been
+followed. The author has no desire to claim original invention for any
+part of his system where another has been before him, and would most
+gladly make specific acknowledgment of every aid and suggestion were
+it in his power to do so. With these general explanations and
+acknowledgments he submits the scheme, hoping it may prove as useful to
+others as it has to himself.
+
+AMHERST COLLEGE LIBRARY,
+
+June 10th, 1876.
+
+       *       *       *       *       *
+
+Those interested will find fuller explanations and remarks in the Library
+volume now being printed by the Bureau of Education at Washington.
+
+
+
+
+(GENERAL)
+PHILOSOPHY,
+THEOLOGY,
+SOCIOLOGY,
+PHILOLOGY,
+NATURAL SCIENCE,
+USEFUL ARTS,
+FINE ARTS,
+LITERATURE,
+HISTORY.
+
+
+
+
+DIVISIONS.
+
+
+
+
+(GENERAL)
+
+
+=  0=
+ 10  BIBLIOGRAPHY.
+ 20  BOOK RARITIES.
+ 30  GENERAL CYCLOPEDIAS.
+ 40  POLYGRAPHY.
+ 50  GENERAL PERIODICALS.
+ 60  GENERAL SOCIETIES.
+ 70
+ 80
+ 90
+
+=100  Philosophy.=
+110  METAPHYSICS.
+120
+130  ANTHROPOLOGY.
+140  SCHOOLS OF PSYCHOLOGY.
+150  MENTAL FACULTIES.
+160  LOGIC.
+170  ETHICS.
+180  ANCIENT PHILOSOPHIES.
+190  MODERN PHILOSOPHIES.
+
+=200  Theology.=
+210  NATURAL THEOLOGY.
+220  BIBLE.
+230  DOCTRINAL THEOLOGY.
+240  PRACTICAL AND DEVOTIONAL.
+250  HOMILETICAL AND PASTORAL.
+260  INSTITUTIONS AND MISSIONS.
+270  ECCLESIASTICAL HISTORY.
+280  CHRISTIAN SECTS.
+290  NON-CHRISTIAN RELIGIONS.
+
+=300  Sociology.=
+310  STATISTICS.
+320  POLITICAL SCIENCE.
+330  POLITICAL ECONOMY.
+340  LAW.
+350  ADMINISTRATION.
+360  ASSOCIATIONS AND INSTITUTIONS.
+370  EDUCATION.
+380  COMMERCE AND COMMUNICATION.
+390  CUSTOMS AND COSTUMES.
+
+=400  Philology.=
+410  COMPARATIVE.
+420  ENGLISH.
+430  GERMAN.
+440  FRENCH.
+450  ITALIAN.
+460  SPANISH.
+470  LATIN.
+480  GREEK.
+490  OTHER LANGUAGES.
+
+=500  Natural Science.=
+510  MATHEMATICS.
+520  ASTRONOMY.
+530  PHYSICS.
+540  CHEMISTRY.
+550  GEOLOGY.
+560  PALEONTOLOGY.
+570  BIOLOGY.
+580  BOTANY.
+590  ZOOLOGY.
+
+=600  Useful Arts.=
+610  MEDICINE.
+620  ENGINEERING.
+630  AGRICULTURE.
+640  DOMESTIC ECONOMY.
+650  COMMUNICATION AND COMMERCE.
+660  CHEMICAL TECHNOLOGY.
+670  MANUFACTURES.
+680  MECHANIC TRADES.
+690  BUILDING.
+
+=700  Fine Arts.=
+710  LANDSCAPE GARDENING.
+720  ARCHITECTURE.
+730  SCULPTURE.
+740  DRAWING AND DESIGN.
+750  PAINTING.
+760  ENGRAVING.
+770  PHOTOGRAPHY.
+780  MUSIC.
+790  AMUSEMENTS.
+
+=800  Literature.=
+810  TREATISES AND COLLECTIONS.
+820  ENGLISH.
+830  GERMAN.
+840  FRENCH.
+850  ITALIAN.
+860  SPANISH.
+870  LATIN.
+880  GREEK.
+890  OTHER LANGUAGES.
+
+=900  History.=
+910  GEOGRAPHY AND DESCRIPTION.
+920  BIOGRAPHY.
+930  ANCIENT HISTORY.
+940  EUROPE.                     }
+950  ASIA.                       }
+960  AFRICA.                     } Modern.
+970  NORTH AMERICA.              }
+980  SOUTH AMERICA.              }
+990  OCEANICA AND POLAR REGIONS. }
+
+
+
+
+(GENERAL)
+
+
+=  0=
+  1
+  2
+  3
+  4
+  5
+  6
+  7
+  8
+  9
+
+= 10 Bibliography.=
+ 11  General Bibliographies.
+ 12  Special Forms.
+ 13    _Manuscripts._
+ 14    _Anonyms, Pseudonyms, &c._
+ 15  Special Countries.
+ 16  Special Subjects.
+ 17  Subject Catalogues.
+ 18  Authors' Catalogues.
+ 19  Library Economy and Reports.
+
+= 20 Book Rarities.=
+ 21  Manuscripts.
+ 22  Block Books.
+ 23  Early Printed.
+ 24  Celebrated Printers.
+ 25  Celebrated Binders.
+ 26  Materials.
+ 27  Ownership.
+ 28  Prohibited.
+ 29  Other.
+
+= 30 General Cyclopedias.=
+ 31  American.
+ 32  English.
+ 33  German.
+ 34  French.
+ 35  Italian.
+ 36  Spanish.
+ 37  Slavic.
+ 38  Scandinavian.
+ 39  Other.
+
+= 40 Polygraphy.=
+ 41  American.
+ 42  English.
+ 43  German.
+ 44  French.
+ 45  Italian.
+ 46  Spanish.
+ 47  Slavic.
+ 48  Scandinavian.
+ 49  Other.
+
+= 50 General Periodicals.=
+ 51  American.
+ 52  English.
+ 53  German.
+ 54  French.
+ 55  Italian.
+ 56  Spanish.
+ 57  Slavic.
+ 58  Scandinavian.
+ 59  Other.
+
+= 60 General Societies.=
+ 61  American.
+ 62  English.
+ 63  German.
+ 64  French.
+ 65  Italian.
+ 66  Spanish.
+ 67  Slavic.
+ 68  Scandinavian.
+ 69  Other.
+
+= 70=
+ 71
+ 72
+ 73
+ 74
+ 75
+ 76
+ 77
+ 78
+ 79
+
+= 80=
+ 81
+ 82
+ 83
+ 84
+ 85
+ 86
+ 87
+ 88
+ 89
+
+= 90=
+ 91
+ 92
+ 93
+ 94
+ 95
+ 96
+ 97
+ 98
+ 99
+
+
+
+
+PHILOSOPHY.
+
+
+=100  Philosophy.=
+101
+102  Compends.
+103  Dictionaries.
+104  Essays.
+105  Periodicals.
+106  Societies.
+107  Education.
+108
+109  History.
+
+=110  Metaphysics.=
+111  Ontology.
+112  Methodology.
+113  Cosmology.
+114
+115
+116
+117
+118
+119
+
+=120=
+121
+122
+123
+124
+125
+126
+127
+128
+129
+
+=130  Anthropology.=
+131  Mental physiology and hygiene.
+132  Mental derangements.
+133  Delusions, witchcraft, magic.
+134  Mesmerism.
+135  Sleep, dreams, somnambulism.
+136  Sexes.
+137  Temperaments.
+138  Physiognomy.
+139  Phrenology.
+
+=140   Schools of Psychology.=
+141  Idealistic.
+142  Critical.
+143  Intuitive.
+144  Empirical.
+145  Sensational.
+146  Materialistic.
+147  Pantheistic.
+148  Eclectic.
+149  Other.
+
+=150  Mental Faculties.=
+151  Intellect.
+152  Sense.
+153  Understanding.
+154  Memory.
+155  Reason.
+156  Imagination.
+157  Susceptibility.
+158  Instincts.
+159  Will.
+
+=160  Logic.=
+161  Inductive.
+162  Deductive.
+163  Assent.
+164
+165
+166
+167
+168
+169
+
+=170 Ethics.=
+171  Theoretical.
+172  State.
+173  Family.
+174  Business.
+175  Amusements.
+176  Sexual.
+177  Social.
+178  Temperance.
+179  Other.
+
+=180  Ancient Philosophies.=
+181  Oriental.
+182  Early Greek.
+183  Sophistic and Socratic.
+184  Platonic.
+185  Aristotelian.
+186  Pyrrhonist and New Platonist.
+187  Epicurean.
+188  Stoic.
+189  Patristic.
+
+=190  Modern Philosophies.=
+191  Scotch and American.
+192  English.
+193  German.
+194  French.
+195  Italian.
+196  Spanish.
+197  Arabian.
+198  Scholastic.
+199  Other.
+
+
+
+
+THEOLOGY
+
+
+=200 Theology.=
+201  Philosophy.
+202  Compends.
+203  Dictionaries.
+204  Essays.
+205  Periodicals.
+206  Societies.
+207  Education.
+208
+209  History.
+
+=210 Natural Theology.=
+211  Theism and Atheism.
+212  Pantheism.
+213  Creation.
+214  Providence.
+215  Religion and science.
+216  Evil.
+217  Prayer.
+218  Future Life.
+219
+
+=220 Bible.=
+221  Old Testament.
+222    _Historical books._
+223    _Poetical books._
+224    _Prophetical books._
+225  New Testament.
+226    _Gospels and Acts._
+227    _Epistles._
+228    _Apocalypse._
+229  Apocrypha.
+
+=230 Doctrinal.=
+231  God.
+232  Christ.
+233  Man.
+234  Salvation.
+235  Angels.
+236  Death and resurrection.
+237  Future state.
+238  Inspiration.
+239  Apologetics.
+
+=240 Practical and Devotional.=
+241  Didactic.
+242  Meditative.
+243  Hortatory.
+244  Ritual.
+245  Hymnology.
+246  Public worship.
+247  Social worship.
+248  Private worship.
+249  Religious fiction and anecdote.
+
+=250 Homiletical and Pastoral.=
+251  Homiletics.
+252  Sermons.
+253    _Doctrinal._
+254    _Practical._
+255    _Religion and Science._
+256    _Political._
+257    _Ordination._
+258    _Expository._
+259    _Commemorative._
+
+=260 Institutions and missions.=
+261  Church.
+262    _Ecclesiastical polity._
+263  Sabbath.
+264  Baptism.
+265  Lord's Supper.
+266  Missions.
+267    _Foreign._
+268  Sunday schools.
+269  Revivals.
+
+=270 Ecclesiastical History.=
+271  Religious orders.
+272  Persecutions.
+273  Doctrines.
+274  Europe.
+275  Asia.
+276  Africa.
+277  North America.
+278  South America.
+279  Oceanica.
+
+=280 Christian Sects.=
+281  Oriental.
+282  Roman Catholic.
+283  English and Protestant Episcopal.
+284  Presbyterian.
+285  Congregational.
+286  Baptist.
+287  Methodist.
+288  Unitarian and Universalist.
+289  Other Christian sects.
+
+=290 Non-Christian Religions.=
+291  Comparative mythology.
+292  Greek and Roman mythology.
+293  Norse mythology.
+294  Brahmanism and Buddhism.
+295  Parseeism.
+296  Judaism.
+297  Mohammedanism.
+298  Mormonism.
+299  Other.
+
+
+
+
+SOCIOLOGY.
+
+
+=300  Sociology.=
+301  Philosophy.
+302  Compends.
+303  Dictionaries.
+304  Essays.
+305  Periodicals.
+306  Societies.
+307
+308
+309  History.
+
+=310  Statistics.=
+311  Methods.
+312  Progress of population.
+313  Progress of civilization.
+314  Europe.
+315  Asia.
+316  Africa.
+317  North America.
+318  South America.
+319  Oceanica.
+
+=320  Political Science.=
+321  Patriarchal Institutions.
+322  Feudal Institutions.
+323  Monarchic Institutions.
+324  Republican Institutions.
+325  Colonies and Emigration.
+326  Slavery.
+327  Foreign and Domestic relations.
+328  Legislative annals.
+329  Political essays and speeches.
+
+=330  Political Economy.=
+331  Capital and labor.
+332  Banks and money.
+333  Stocks, rents, and income.
+334  Credit and interest.
+335  Communism.
+336  Public funds and taxation.
+337  Protection and free trade.
+338  Production.
+339  Pauperism.
+
+=340  Law.=
+341  International.
+342  Constitutional and administrative.
+343  Statute and common.
+344  Equity.
+345  Criminal.
+346  Maritime.
+347  Martial.
+348  Civil and Canon.
+349  Evidence and Forms of practice.
+
+=350  Administration.=
+351  Civil Service.
+352    _Treasury._
+353    _Interior._
+354    _Police._
+355  Army.
+356    _Infantry._
+357    _Cavalry._
+358    _Artillery._
+359  Navy.
+
+=360  Associations and Institutions.=
+361  Charitable.
+362  Religious.
+363  Political.
+364  Reformatory and Sanitary.
+365  Prisons.
+366  Secret Societies.
+367  Trades Unions.
+368  Insurance.
+369  Other.
+
+=370  Education.=
+371  Teachers, methods, and discipline.
+372  Elementary.
+373  Higher.
+374  Self-education.
+375  Classical and real.
+376  Female.
+377  Religious and secular.
+378  Schools and Colleges.
+379  Reports.
+
+=380  Commerce, Communication.=
+381  Domestic trade.
+382  Foreign trade.
+383  Post office.
+384  Telegraph.
+385  Railroad and express.
+386  Canal transportation.
+387  River and ocean transportation.
+388  City transit.
+389  Weights and measures.
+
+=390  Customs and Costumes.
+391  Ancient.
+392  Medieval.
+393  Modern.
+394    _Europe._
+395    _Asia._
+396    _Africa._
+397    _North America._
+398    _South America._
+399    _Oceanica._
+
+
+
+
+PHILOLOGY.
+
+
+=400 Philology.=
+401  Philosophy.
+402  Compends.
+403  Dictionaries.
+404  Essays.
+405  Periodicals.
+406  Societies.
+407  Education.
+408  Universal Language.
+409  History.
+
+=410 Comparative.=
+411  Orthography.
+412  Etymology.
+413  Dictionaries.
+414  Phonology.
+415  Grammar.
+416  Prosody.
+417  Inscriptions.
+418  Texts.
+419  Hieroglyphics.
+
+=420 English.=
+421  Orthography.
+422  Etymology.
+423  Dictionaries.
+424  Synonyms.
+425  Grammar.
+426  Prosody.
+427  Dialects.
+428  Texts.
+429  Anglo-Saxon.
+
+=430 German.=
+431  Orthography.
+432  Etymology.
+433  Dictionaries.
+434  Synonyms.
+435  Grammar.
+436  Prosody.
+437  Dialects.
+438  Texts.
+439  Dutch and Low German.
+
+=440 French.=
+441  Orthography.
+442  Etymology.
+443  Dictionaries.
+444  Synonyms.
+445  Grammar.
+446  Prosody.
+447  Dialects.
+448  Texts.
+449  Old French, Provencal.
+
+=450 Italian.=
+451  Orthography.
+452  Etymology.
+453  Dictionaries.
+454  Synonyms.
+455  Grammar.
+456  Prosody.
+457  Dialects.
+458  Texts.
+459  Romansh and Wallachian.
+
+=460 Spanish.=
+461  Orthography.
+462  Etymology.
+463  Dictionaries.
+464  Synonyms.
+465  Grammar.
+466  Prosody.
+467  Dialects.
+468  Texts.
+469  Portuguese.
+
+=470 Latin.=
+471  Orthography.
+472  Etymology.
+473  Dictionaries.
+474  Synonyms.
+475  Grammar.
+476  Prosody.
+477  Dialects.
+478  Texts.
+479  Medieval Latin.
+
+=480 Greek.=
+481  Orthography.
+482  Etymology.
+483  Dictionaries.
+484  Synonyms.
+485  Grammar.
+486  Prosody.
+487  Dialects.
+488  Texts.
+489  Modern Greek.
+
+=490 Other Languages.=
+491  Chinese.
+492  Egyptian.
+493  Semitic.
+494  Indian.
+495  Iranian.
+496  Keltic.
+497  Slavic.
+498  Scandinavian.
+499  Other.
+
+
+
+
+NATURAL SCIENCE.
+
+
+=500 Natural Science.=
+501  Philosophy.
+502  Compends.
+503  Dictionaries.
+504  Essays.
+505  Periodicals.
+506  Societies.
+507  Education.
+508  Travels.
+509  History.
+
+=5l0 Mathematics.=
+511  Arithmetic.
+512  Algebra.
+513  Geometry.
+514  Trigonometry.
+515  Conic sections.
+516  Analytical geometry.
+517  Calculus.
+518  Quaternions.
+519  Probabilities.
+
+=520 Astronomy.=
+521  Theoretical.
+522  Practical.
+523  Descriptive.
+524  Maps.
+525  Observations.
+526  Figure of the earth.
+527  Navigation.
+528  Almanacs.
+529  Chronology.
+
+=530 Physics.=
+531  Mechanics.
+532  Hydrostatics.
+533  Pneumatics.
+534  Acoustics.
+535  Optics.
+536  Heat.
+537  Electricity.
+538  Magnetism.
+539  Molecular physics.
+
+=540 Chemistry.=
+541  Theoretical.
+542  Experimental.
+543  Analysis.
+544    _Qualitative._
+545    _Quantitative._
+546  Inorganic.
+547  Organic.
+548  Crystallography.
+549  Mineralogy.
+
+=550 Geology.=
+551  Physical Geography, Meteorology.
+552  Lithology.
+553  Dynamical geology.
+554  Europe.
+555  Asia.
+556  Africa.
+557  North America.
+558  South America.
+559  Oceanica.
+
+=560 Paleontology.=
+561  Plants.
+562  Invertebrates.
+563    _Protozoa and Radiates._
+564    _Mollusca._
+565    _Articulates._
+566  Vertebrates.
+567    _Fishes._
+568    _Reptiles and Birds._
+569    _Mammals._
+
+=570 Biology.=
+571  Prehistoric Archaeology.
+572  Ethnology.
+573  Natural History of Man.
+574  Homologies.
+575  Evolution.
+576  Embryology.
+577  Spontaneous generation.
+578  Microscopy.
+579  Collectors' Manuals.
+
+=580 Botany.=
+581  Physiological.
+582  Systematic.
+583  Ornamental.
+584  Europe.
+585  Asia.
+586  Africa.
+587  North America.
+588  South America.
+589  Oceanica.
+
+=590 Zoology.=
+591  Comparative Anatomy.
+592  Invertebrates.
+593    _Protozoa and Radiates._
+594    _Mollusca._
+595    _Articulates._
+596  Vertebrates.
+597    _Fishes._
+598    _Reptiles and Birds._
+599    _Mammals._
+
+
+
+
+USEFUL ARTS.
+
+
+=600 Useful Arts.=
+601  Philosophy.
+602  Compends.
+603  Dictionaries.
+604  Essays.
+605  Periodicals.
+606  Societies.
+607  Education.
+608  Patents.
+609  History.
+
+=610 Medicine.=
+611  Anatomy.
+612  Physiology.
+613  Hygiene.
+614  Public health.
+615  Materia medica and therapeutics.
+616  Pathology, theory and practice.
+617  Surgery and dentistry.
+618  Obstetrics and sexual science.
+619  Veterinary medicine.
+
+=620 Engineering.=
+621  Mechanical.
+622  Topographical.
+623  Military.
+624  Bridge.
+625  Road and railroad.
+626  Canal.
+627  Harbor.
+628  Hydraulic and mining.
+629  Instruments and field books.
+
+=630 Agriculture.=
+631  Soil and preparation.
+632  Pests and hindrances.
+633  Productions of the soil.
+634  Fruits.
+635  Garden.
+636  Domestic animals.
+637  Dairy.
+638  Bees and silkworm.
+639  Fishing, trapping.
+
+=640 Domestic Economy.=
+641  Cookery.
+642  Confectionery.
+643  Food and dining.
+644  Fuel and lights.
+645  Furniture.
+646  Clothing and toilet.
+647  Servants.
+648  Laundry.
+649  Nursery and sick-room.
+
+=650 Communication, Commerce.=
+651  Writing.
+652    _Penmanship._
+653    _Short hand._
+654  Telegraphy.
+655  Printing.
+656  Navigation and transportation.
+657  Book-keeping.
+658  Business manuals.
+659  Other.
+
+=660 Chemical Technology.=
+661  Chemicals.
+662  Pyrotechnics.
+663  Wines, liquors, and ales.
+664  Sugar, salt, starch, etc.
+665  Gas.
+666  Glass.
+667  Dyeing and bleaching.
+668  Assaying.
+669  Metallurgy.
+
+=670 Manufactures.=
+671  Metals.
+672    _Iron._
+673  Marble, stone, and brick.
+674  Wood.
+675  Leather and rubber.
+676  Paper.
+677  Textile fabrics.
+678    _Cotton._
+679  Other.
+
+=680 Mechanic Trades.=
+681  Watch and instrument-making.
+682  Blacksmithing.
+683  Lock and gun-making.
+684  Carriage and cabinet-making.
+685  Saddlery and shoe-making.
+686  Book-binding.
+687  Clothes-making.
+688
+689  Other.
+
+=690 Building.=
+691  Materials.
+692  Plans and specifications.
+693  Masonry.
+694  Carpentry.
+695  Slating and tiling.
+696  Plumbing.
+697  Warming and ventilation.
+698  Painting, glazing, and paper-hanging.
+699  Car and Ship-building.
+
+
+
+
+FINE ARTS.
+
+
+=700 Fine Arts.=
+701  Philosophy.
+702  Compends.
+703  Dictionaries.
+704  Essays.
+705  Periodicals.
+706  Societies.
+707  Education.
+708  Galleries.
+709  History.
+
+=710 Landscape Gardening.=
+711  Parks.
+712  Private grounds.
+713  Walks and drives.
+714  Water.
+715  Trees and hedges.
+716  Plants and flowers.
+717  Arbors.
+718  Monuments.
+719  Cemeteries.
+
+=720 Architecture.=
+721  Architectural construction.
+722  Ancient and Oriental.
+723  Medieval.
+724  Modern.
+725  Public buildings.
+726  Church.
+727  School.
+728  Domestic and rural.
+729  Of special countries.
+
+=730 Sculpture.=
+731  Materials and methods.
+732  Ancient.
+733    _Greek and Roman._
+734  Medieval.
+735  Modern.
+736  Carving.
+737  Numismatics.
+738  Pottery and bronzes.
+739  Collections.
+
+=740 Drawing and Design.=
+741  Free-hand.
+742  Perspective.
+743  Art anatomy.
+744  Mathematical drawing.
+745  Ornamental design.
+746    _Ancient._
+747    _Medieval._
+748    _Modern._
+749  Collections.
+
+=750 Painting.=
+751  Materials and methods.
+752  Color.
+753  Flemish and Dutch Schools.
+754  French.
+755  Italian.
+756  Other schools.
+757  Portrait.
+758  Landscape.
+759  Collections.
+
+=760 Engraving.=
+761  Wood.
+762  Steel and Copper.
+763  Lithography.
+764  Chromolithography.
+765  Line and Stipple.
+766  Mezzotint and Aquatint.
+767  Etching.
+768  Bank Note and Machine.
+769  Collections.
+
+=770 Photography.=
+771  Materials.
+772  Ambrotype and Daguerreotype.
+773  Photograph.
+774  Heliotype, Albertype, etc.
+775  Photolithography.
+776  Stereoscopic.
+777  Portrait.
+778  Landscape.
+779  Collections.
+
+=780 Music.=
+781  Theory.
+782  Dramatic.
+783  Church.
+784  Vocal.
+785  Instrumental.
+786    _Piano and Organ._
+787    _Stringed instruments._
+788    _Wind instruments._
+789  Associations and institutions.
+
+=790 Amusements.=
+791  Entertainments.
+792    _Theatre._
+793  In-door amusements.
+794    _Chess._
+795    _Other games._
+796  Out-door sports.
+797    _Boating and ball._
+798    _Horsemanship and racing._
+799    _Fishing, hunting, shooting._
+
+
+
+
+LITERATURE.
+
+
+=800 Literature.=
+801  Philosophy.
+802  Compends.
+803  Dictionaries.
+804  Essays.
+805  Periodicals.
+806  Societies.
+807
+808
+809  History.
+
+=810 Treatises and Collections.=
+811  Poetry.
+812  Drama.
+813  Romance.
+814  Essays.
+815  Rhetoric and oratory.
+816  Letters.
+817  Satire.
+818  Humor.
+819  Miscellany.
+
+=820 English Literature.=
+821  English Poetry.
+822  English Drama.
+823  English Romance.
+824  English Essays.
+825  English Oratory.
+826  English Letters.
+827  English Satire.
+828  English Humor.
+829  English Miscellany.
+
+=830 German Literature.=
+831  German Poetry.
+832  German Drama.
+833  German Romance.
+834  German Essays.
+835  German Oratory.
+836  German Letters.
+837  German Satire.
+838  German Humor.
+839  German Miscellany.
+
+=840 French Literature.=
+841  French Poetry.
+842  French Drama.
+843  French Romance.
+844  French Essays.
+845  French Oratory.
+846  French Letters.
+847  French Satire.
+848  French Humor.
+849  French Miscellany.
+
+=850 Italian Literature.=
+851  Italian Poetry.
+852  Italian Drama.
+853  Italian Romance.
+854  Italian Essays.
+855  Italian Oratory.
+856  Italian Letters.
+857  Italian Satire.
+858  Italian Humor.
+859  Italian Miscellany.
+
+=860 Spanish Literature.=
+861  Spanish Poetry.
+862  Spanish Drama.
+863  Spanish Romance.
+864  Spanish Essays.
+865  Spanish Oratory.
+866  Spanish Letters.
+867  Spanish Satire.
+868  Spanish Humor.
+869  Spanish Miscellany.
+
+=870 Latin Literature.=
+871  Latin Poetry.
+872    _Dramatic._
+873    _Epic._
+874    _Lyric._
+875  Latin Oratory.
+876  Latin Letters.
+877  Latin Satire.
+878  Latin Philosophy.
+879  Latin History.
+
+=880 Greek Literature.=
+881  Greek Poetry.
+882    _Dramatic._
+883    _Epic._
+884    _Lyric._
+885  Greek Oratory.
+886  Greek Letters.
+887  Greek Humor.
+888  Greek Philosophy.
+889  Greek History.
+
+=890 Other Languages.=
+891  Chinese.
+892  Egyptian.
+893  Semitic.
+894  Indian.
+895  Iranian.
+896  Keltic.
+897  Slavic.
+898  Scandinavian.
+899  Other.
+
+
+
+
+HISTORY.
+
+
+=900 History.=
+901  Philosophy.
+902  Compends, chronology.
+903  Dictionaries.
+904  Essays.
+905  Periodicals.
+906  Societies.
+907  Education.
+908  Charts.
+909  Universal Histories.
+
+=910 Geography and Description.=
+911  Historical.
+912  Ancient.
+913  Modern.
+914    _Europe._
+915    _Asia._
+916    _Africa._
+917    _North America._
+918    _South America._
+919    _Oceanica and Polar Regions._
+
+=920 Biography.=
+921  Of philosophy.
+922  Of theology.
+923  Of sociology.
+924  Of philology.
+925  Of science.
+926  Of useful arts.
+927  Of fine arts.
+928  Of literature.
+929  Genealogy and Heraldry.
+
+=930 Ancient History.=
+931  Chinese.
+932  Egyptian.
+933  Jewish.
+934  Indian.
+935  Persian.
+936  Keltic.
+937  Roman.
+938  Greek.
+939  Other.
+
+=940 Europe.=
+941  Scotland and Ireland.
+942  England.
+943  Germany and Austria.
+944  France.
+945  Italy.
+946  Spain and Portugal.
+947  Russia.
+948  Scandinavia.
+949  Other.
+
+=950 Asia.=
+951  China.
+952  Japan.
+953  Arabia.
+954  India.
+955  Persia.
+956  Turkey in Asia.
+957  Siberia.
+958  Afghanistan.
+959  Other.
+
+=960 Africa.=
+96l  North Africa.
+962    _Egypt and Nubia._
+963    _Abyssinia._
+964    _Morocco._
+965    _Algeria._
+966  Central Africa.
+967    _Guinea._
+968  South Africa.
+969  Other.
+
+=970 North America.=
+971  British America.
+972    _Canada._
+973  United States and Territories.
+974    _Eastern._
+975    _Middle._
+976    _Southern._
+977    _Western._
+978  Mexico.
+979  Other.
+
+=980 South America.=
+981  Brazil.
+982  Argentine Republic.
+983  Chili.
+984  Bolivia.
+985  Peru.
+986  New Granada.
+987  Venezuela.
+988  Guiana.
+989  Other.
+
+=990 Oceanica and Polar Regions.=
+991  Malaysia.
+992    _Sunda._
+993  Australasia.
+994    _Australia._
+995    _New Guinea._
+996  Polynesia.
+997  Isolated islands.
+998  Arctic regions.
+999  Antarctic regions.
+
+
+
+
+SUBJECT INDEX.
+
+       *       *       *       *       *
+
+Find the subject in this Alphabetical INDEX. The number following
+it is its Class Number. The entire resources of the library
+on this subject will be found under this number either in the Subject
+Catalogue, the Shelf Catalogue, or on the shelves.
+
+Where a class number ends in a cipher, the subject will be found,
+on reference to the prefixed classification, to be subdivided.
+
+       *       *       *       *       *
+
+
+
+Abolition 326
+Aborigines North America 970
+Abortion 618
+Abyssinia 963
+Abyssinia language 493
+Academies 378
+Academies of science 506
+Accounts 657
+Acoustics 534
+Acrostics 819, 829, 839, etc.
+Acts and Resolves 328
+Acts of the Apostles 226
+Addresses 815, 825, 835, etc.
+Administration 350
+Administrative law 342
+Admiralty Law 346
+Adultery 176, 345
+Advent, second 236
+Aeronautics 533
+AEsthetics 701
+AEthiopia 966
+Afghanistan 958
+Africa---botany 586
+  customs and costumes 396
+  description 916
+  ecclesiastical history 276
+  geography 916
+  geology 556
+  history 960
+  statistics 316
+  travels 916
+Agricultural chemistry 631
+Agriculture 630
+Air 533
+Alabama 976
+Alaska 977
+Albania 949
+Albertypes 774
+Albigenses 272, 944
+Alchemy 540
+Alcoholic liquors 178, 615, 663
+Ales 663
+Algae 582
+Algebra 512
+Algeria 965
+Aliens 343
+Allegories 819, 829, 839, etc.
+Almanacs 528
+Almanacs statistical 313
+Alphabets 411, 421, 431, etc.
+Alphabets ornamental 745-748
+Ambassadors 341
+Ambrotype 772
+America North 970
+  botany 587
+  customs and costumes 397
+  description 917
+  ecclesiastical history 277
+  geography 917
+  geology 557
+  history 970
+  statistics 317
+  travels 917
+America South 980
+  botany 588
+  customs and costumes 398
+  description 918
+  ecclesiastical history 278
+  geography 918
+  geology 558
+  history 980
+  statistics 318
+  travels 918
+American languages 499
+American painting 756
+American philosophy 191
+American revolution 973
+Americanisms 427
+Amherst College 378
+Amputation 617
+Amusements 175, 790
+Ana, anagrams 819, 829, 839, etc.
+Analysis, chemical 543
+Analysis, qualitative 544
+Analysis, quantitative 545
+Analytical geometry 516
+Anatomy, art 743
+Anatomy, comparative 591
+Anatomy, human 611
+Ancient architecture 722
+Ancient customs, costumes 391
+Ancient design 746
+Ancient geography 912
+Ancient history 930
+Ancient philosophies 180
+Ancient sculpture 732
+Anecdote, Religious 249
+Aneurism 617
+Angels 235
+Anglican church 283
+Angling 799
+Anglo-Saxon history 942
+Anglo-Saxon language 429
+Animal magnetism 134
+Animal kingdom 590
+Animals, domestic 636
+Animalcula 593
+Annuities 333
+Anonyms 14
+Antarctic regions 999
+Antarctic regions travels 919
+Anthropology 130
+Anti-Masonry 366
+Antinomianism 234
+Antiquities, _see_ subject or country.
+Aphorisms 819, 829, 839, etc.
+Apocalypse 228
+Apocrypha 229
+Apologetics 239
+Apoplexy 616
+Apostles 922
+Apostolic church 274-276
+Apostolic succession 262
+Apothegms 819, 829, 839, etc.
+Apparitions 133
+Apples 634
+Aquariums 590
+Aquatint 766
+Aqueducts 628
+Arabia, ancient history 939
+Arabia, modern 953
+Arabian language 493
+Arabian philosophy 197
+Arboriculture 715
+Arbors 717
+Archaeology, prehistoric 571
+Archery 799
+Architects, lives 927
+Architectural drawing 744
+Architecture 720
+Architecture naval 699
+Arctic regions 998
+Arctic regions travels 919
+Argentine republic 982
+Arianism 281, 232
+Aristotelian philosophy 185
+Arithmetic 511
+Arizona 977
+Arkansas 976
+Armenia 956
+Armies 355
+Arminianism 287, 234
+Armor 355
+Art anatomy 743
+Art biography 927
+Art education 707
+Art schools 753-756
+Artesian wells 628
+Articulates, paleontology 565
+Articulates, zoology 595
+Artillery 358
+Artists' lives 927
+Arts, fine 700
+Arts, fine biography of 927
+Arts, useful 600
+Arts, useful biography of 926
+Ashantee 967
+Ashantee geography 916
+Asia 950
+  botany 585
+  customs and costumes 395
+  ecclesiastical history 275
+  geography 915
+  geology 555
+  history 950
+  statistics 315
+  travels 915
+Asia Minor 956
+Assassination 345
+Assault and battery 345
+Assaying 668
+Assent 163
+Associations 360
+Associations musical 789
+Assurance 368
+Assyria 935
+Assyrian language 493
+Asthma 616
+Astrology 133
+Astronomical maps 524
+Astronomical observations 525
+Astronomy 520
+Atheism 211
+Athletic sports 796
+Atlases 910
+Atmosphere 533
+Atonement 234
+Aurora 537, 551
+Australasia 993
+Australia 994
+Austria 943
+Authority 171
+Authors' lives 928
+Autobiography, _see_ Biography.
+Azores 946
+
+=Babylon= 935
+Backgammon 795
+Baconian philosophy 192
+Ball playing 797
+Ballads, _see_ Poetry.
+Ballooning 533
+Banditti 345, 366
+Bank Note Engraving 768
+Bankrupt laws 343
+Banks 332
+Baptism 264
+Baptists 286
+Barbary States 961
+Barometer 533, 551
+Bas-reliefs 731
+Base ball 797
+Basque language 499
+Basque provinces 946
+Baths 613
+Bavaria 943
+Beauty 701
+Beer 663
+Bees 638
+Beetles 595
+Beets 635
+Beets sugar 664
+Belgium 949
+Belles-lettres 800
+Bell-ringing 785
+Bells 671
+Bermudas 971
+Bible 220
+Bible dictionaries, etc. 220
+Bible in schools 377
+Bible societies 362
+Bibliographies 11
+Bibliographies--
+  Special countries 15
+  Special forms 12
+  Special subjects 16
+Bibliography 10
+Billiards 795
+Biography 920
+Biology 570
+Birds 598
+Birds palaeontology 568
+Births 312
+Blacksmithing 682
+Bleaching 667
+Blindness 616
+Block books 22
+Blowpipe 543
+Blue laws 343
+Boating 797
+Boats 797, 699
+Bokhara 959
+Bolivia 984
+Bonds and stocks 333
+Bones 611
+Books 10, 20
+Book binding 10, 25, 686
+Book collecting 10
+Book keeping 657
+Book rarities 20
+Booksellers' catalogues 17, 18
+Boot-making 685, 675
+Botany 580
+Botany fossil 561
+Botany medical 615
+Brahmanism 294
+Brandy 615, 663
+Brazil 981
+Breviaries 244
+Brewing 663
+Bricks 673
+Bridge-building 624
+Brigands 345, 366
+British America 971
+British Columbia 972
+British India 954
+British Museum 369
+Britons 942, 941
+Bronchitis 616
+Bronzes 738
+Buccaneers 345, 366
+Buddhism 294
+Buenos Ayres 982
+Building 690
+Burial 390, 614, 719
+Burmah 954
+Business ethics 174
+Business manuals 658
+Butter 637
+Butterflies 595
+Byzantine Empire 949
+
+=Cabinet= making 684
+Calabria 945
+Calculators 511
+Calculus 517
+Caledonia 941
+California 977
+Calisthenics 613
+Caloric 536
+Calvinism 234
+Cambists 332
+Cambria 942
+Cameos 736
+Canada 972
+Canal engineering 626
+Canal transit 386
+Canary Isles 946
+Cancer 616
+Canon law 348
+Capital and labor 331
+Capital punishment 345
+Car-building 699
+Card-playing 795
+Caribbee Islands 989
+Caricatures 741
+Carpentry 694
+Carriage making 684
+Carthage 939
+Carving 643
+Carving and chasing 736
+Cashmere 954
+Castille 946
+Casts 730
+Casuistry 171
+Catalogues--Authors 18
+Catalogues--Books 12-18
+Catalogues--Libraries 12-18
+Catalogues--Subjects 17
+Catarrh 616
+Catechisms 241
+Cathedrals 726
+Catholic Church 282
+Cattle 636
+Caucuses 324
+Cavalry 357
+Caves 551
+Celibacy 136, 176
+Celtic language 496
+Celtic literature 896
+Celts 936
+Cements 693
+Cemeteries 719
+Censuses 310
+Central Africa 966
+Central America 979
+Ceramic art 673, 738
+Cetacea 599
+Ceylon 954
+Chaldee language 493
+Chances 519
+Charades 795
+Charitable associations 361
+Charts, history 908
+Chasing 736
+Checkers 795
+Cheese 637
+Chemical agriculture 631
+Chemical analysis 543
+Chemical technology 660
+Chemicals--manufacture 661
+Chemistry 540
+Chess 794
+Childbirth 618
+Chili 983
+Chimneys 693
+China, ancient 931
+China, modern 951
+Chinese language 491
+Chinese literature 891
+Chinese religion 299
+Chivalry 322
+Chloroform 615, 617, 618
+Cholera 616
+Christ 232
+Christian doctrines 230
+Christian fathers 270
+Christian institutions 260
+Christian sects 280
+Christianity, evidences 239
+Christianity, history 270-289
+Christmas customs 390
+Christology 232
+Chromolithography 764
+Chronologies 902
+Chronology 529
+Church 261
+Church architecture 726
+Church of England 283
+Church fathers 270
+Church history 270-289
+Church music 783
+Church polity 262
+Church of Rome 282
+Church and state 261, 172, 329
+Circassia 947
+Circumnavigations 910
+Citizenship 342
+City transit 388
+Civil engineering 620
+Civil law 348
+Civil service organs 351
+Civil service regulations 351
+Civilization--progress 313
+Clairvoyance 134
+Classical education 375
+Classics, Greek 488, 880
+Classics, Latin 478, 870
+Classification 112
+Clergy, lives of 922
+Climatology 551, 536
+Clinics 610
+Clock-making 681
+Clothes-making 687
+Clothing 646
+Clubs 369
+Coal 549, 644
+Coast survey 622
+Coats of arms 929
+Cochin China 951
+Co-education 376
+Coffee 641, 633
+Coinage 332
+Coins 737
+Coleoptera 595
+Collections, art 708
+  drawing and design 749
+  engraving 769
+  painting 759
+  photography 779
+  sculpture 739
+Collectors' manuals 579
+Colleges 378
+Collieries 628
+Colombia, S.A. 986
+Colonies 325
+Color 535
+Colors, painting 752
+Coloring 667
+Comedy, _see_ Drama.
+Comets 523
+Comic works, _see_ Humor.
+Commemorative sermons 259
+Commentaries, Bible 220
+Commentaries, law 340
+Commerce 380
+Commercial law 343
+Common law 343
+Common schools 372
+Communication 380, 650
+Communion 265
+Communism 335
+Comparative anatomy 591
+Comparative mythology 291
+Comparative philology 410
+Compass 629, 538, 527
+Compends--
+  fine arts 702
+  history 902
+  literature 802
+  natural science 502
+  philology 402
+  philosophy 102
+  science 502
+  sociology 302
+  theology 202
+  useful arts 602
+Composition 815
+Composition of music 781
+Comte's philosophy 194, 145
+Conchology 594
+Concordances of Bible 220
+Confectionery 642
+Confessional 282
+Congregationalism 285
+Conic sections 515
+Connecticut 974
+Conscience 170, 233
+Conservatories of music 789
+Constitution, English 323
+Constitution, United States 324
+Constitutional law 342
+Construction, architectural 721
+Consuls 327
+Consumption 616
+Contagion 614
+Contracts 343
+Convents 362, 271
+Conversation 177
+Cookery 641
+Co-operation 331
+Copper 671, 549
+Copper engraving 762
+Coptic language 492
+Copyright 343
+Corals 593
+Corea 959
+Corn laws 347, 343
+Cornices 721
+Coroners 343
+Corporal punishment 371
+Corporations 360
+Correction, houses of 364
+Correlation of forces 530
+Correspondence 816
+Corsica 944
+Cosmetics 646
+Cosmogony 113
+Cosmology 113
+Cossacks 947
+Costa Rica 979
+Costumes 390
+Cottages 728
+Cotton manufactures 678
+Cotton planting 633
+Cotton trade 381, 382
+Councils 262, 270
+Courts martial 347
+Cousin's philosophy 194
+Covenanters 274, 941
+Cows 636, 637
+Cranberries 634
+Crayoning 741
+Creation 213
+Credit 334
+Creeds 244, 280
+Cremation 614, 390
+Crete 949
+Cricket 796
+Crimea 947
+Crimes and punishments 345
+Criminal law 345
+Critical psychology 142
+Criticism--literary, _see_ Essays.
+Crocheting 793
+Croquet 796
+Croup 616
+Crusades 274, 940
+Crustacea 595
+Cryptogamia 582
+Crystallography 548
+Cuba 979
+Currency 332
+Curvilinear motion 531
+Customs and duties 337
+Customs and manners 390
+Cyclopaedias, general 30
+
+=Daguerreotype= 772
+Dairy 637
+Dancing 793
+Danish 498
+Darwinism 575
+Deaf and dumb institutions 361
+Deafness 616
+Death 612
+Death and resurrection 236
+Death penalty 345
+Debates 815
+Decimal system 511
+Decimal weights & measures 389
+Decorative art 745-748
+Deductive logic 162
+Deism 211
+Delaware 975
+Delusions 133
+Democracy 324
+Demonology 133
+Denmark 948
+Denominations, Christian 280
+Dentistry 617
+Depravity 233, 216
+Derangement, mental 132
+Descarte's philosophy 194
+Descriptive astronomy 523
+Descriptive geometry 744
+Design and drawing 740
+Design ornamental 745-8
+Despotism 321
+Detectives 354
+Deuteronomy 222
+Development theory 575
+Devil 235
+Devotional theology 240
+Dew 551
+Dialectics 160
+Dialects--
+  English 427
+  French 447
+  German 437
+  Greek 487
+  Italian 457
+  Latin 477
+  Spanish 467
+Diamonds 552
+Dictionaries--
+  comparative 413
+  English 423
+  fine art 703
+  French 443
+  German 433
+  Greek 483
+  history 903
+  Italian 453
+  Latin 473
+  literature 803
+  natural science 503
+  philology 403
+  philosophy 103
+  science 503
+  sociology 303
+  Spanish 463
+  theology 203
+  useful arts 603
+Didactic theology 241
+Die-making 736
+Diet 613
+Differential calculus 517
+Digestion 612
+Digests 343
+Dining 643
+Diphtheria 616
+Diplomacy 327, 341
+Diplomatics 10, 21
+Directories 910
+Discipline, education 371
+Diseases 616
+Disinfection 614
+Dispensatories 615
+Dissection 611
+Dissenters 289, 283
+Distillation 663
+District of Columbia 976
+Divorce 343, l73
+Doctrinal history 273
+Doctrinal sermons 253
+Doctrinal theology 230
+Dogs 599, 636
+Domestic animals 636
+Domestic architecture 728
+Domestic economy 640
+Domestic and foreign relations 327
+Domestic medicine 615
+Domestic trade 381
+Domestic worship 248
+Dominos 795
+Drainage 631, 614
+Drama, general treatises 812
+Drama, English 822
+Drama, French 842
+Drama, German 832
+Drama, Greek 882
+Drama, Italian 852
+Drama, Latin 872
+Drama, Spanish 862
+Dramatic amusements 792
+Dramatic music 782
+Draughts 795
+Drawing 740
+Drawing-books 741
+Dreams 135
+Dress 646
+Dress making 646
+Drives 713
+Driving 798
+Drugs 615
+Druids 299
+Duelling 177, 345, 392
+Dutch language 439
+Dutch painting 753
+Dutch Reformed Church 289
+Dutch Republic 949
+Duties 170
+Duties and customs 337
+Dyeing 667
+Dynamical electricity 537
+Dynamical geology 553
+Dynamics 531
+Dysentery 616
+Dyspepsia 616
+
+=Ear= diseases 616
+Early Greek philosophy 182
+Earth 551
+Earth figure of 526
+Earthquakes 553
+East Indies 954
+Easter 244
+Eastern church 281
+Eastern States 974
+Ecclesiastical history 270
+Ecclesiastical polity 262
+Echinoderms 593
+Eclectic medicine 616
+Eclectic psychology 148
+Eclipses 523
+Economy, domestic 640
+Economy, political 330
+Ecuador 989
+Education 370
+Education fine arts 707
+Education history 907
+Education natural sciences 507
+Education philology 407
+Education philosophy 107
+Education science 507
+Education theology 207
+Education useful arts 607
+Educational institutions 378
+Educational reports 379
+Egypt, ancient 932
+Egypt, modern 962
+Egyptian language 492
+Egyptian literature 892
+Election sermons 256
+Elections 324
+Electricity 537
+Electro-magnetism 538
+Eleemosynary institutions 361
+Elementary education 372
+Elgin marbles 733
+Elocution 815
+Emancipation 326
+Embalming 390
+Embargo 346, 341
+Emblems 219
+Embryology 576
+Emigration 325
+Empirical psychology 144
+Enamel painting 751
+Encaustic painting 751
+Encyclopaedias, general 30
+Engineering 620
+Engineering instruments 629
+England, history 942
+English church 283
+English dialects 427
+English dictionaries 423
+English etymology 422
+English government 323
+English grammar 425
+English language 420
+English literature 820
+English orthography 421
+English painting 756
+English philology 420
+English philosophy 192
+English prosody 426
+English sculpture 735
+English synonyms 424
+English texts 428
+Engraving 760
+Enigmas 819, 829, 839, etc.
+Entertainments 791
+Enthusiasm 137
+Entomology 595
+Entozoa 595
+Epics 811, 821, 831, etc.
+Epics Greek 883
+Epics Latin 873
+Epicurean philosophy 187
+Epidemics 614
+Epigrams 819, 829, 839, etc.
+Episcopal church 283
+Epistles, Bible 227
+Epistolography 816, 826, etc.
+Epitaphs 929
+Equador 989
+Equestrian exercise 798
+Equipments of armies 355
+Equipments of navies 359
+Equity 344
+Eschatology 236
+Esquimaux 979, 998
+Essays, English literature 824
+Essays, fine arts 704
+Essays, French 844
+Essays, general treatises 814
+Essays, German 834
+Essays, history 904
+Essays, Italian 854
+Essays, literature 804
+Essays, natural science 504
+Essays, philology 404
+Essays, philosophy 104
+Essays, political 329
+Essays, science 504
+Essays, sociology 304
+Essays, Spanish 864
+Essays, theology 204
+Essays, useful arts 604
+Etching 767
+Etherization 617
+Ethics 170
+Ethiopia 966
+Ethnography 390
+Ethnology 572
+Etiquette 177
+Etruria 937
+Etymologies, comparative 412
+Etymologies, English 422
+Etymologies, French 442
+Etymologies, German 432
+Etymologies, Greek 482
+Etymologies, Italian 452
+Etymologies, Latin 472
+Etymologies, Spanish 462
+Eucharist 265
+Eulogies 920, 259
+Europe--botany 584
+  customs and costumes 394
+  ecclesiastical history 274
+  geography 914
+  geology 554
+  history 940
+  statistics 314
+  travels 914
+Evidence (law) 349
+Evidences of Christianity 239
+Evil 216
+Evolution 575
+Exchange 332
+Excise 336
+Exegesis 220
+Exhibitions, art 708
+Exodus 222
+Experimental Chemistry 542
+Explorations 910
+Expository sermons 258
+Express companies 385
+Eye, diseases 616
+Eye, functions 612
+
+=Fables= 819, 829, 839, etc.
+Facetiae 819, 829, 839, etc.
+Fairy tales 813, 823, 833 etc.
+Faith 234, 163
+Family 173
+Family medicines 616
+Family worship 247
+Fanaticism 133
+Farces 828, 838, etc., 791
+Farming 630
+Farriery 682
+Fashion 177
+Fasts 244
+Fatalism 159
+Fathers of the church 270
+Fauna 590
+Feasts 244
+Federalism 324
+Female education 376
+Female seminaries 378
+Fencing 796
+Ferns 582
+Fetichism 299
+Feudal institutions 322
+Fevers 616
+Fiction, _see_ Romance.
+Field books, engineering 629
+Field sports 796-799
+Figure of the earth 526
+Filibusters 363, 345, 978
+Final causes 113
+Finances 330
+Fine arts 700
+  biography of 927
+Finland 947
+Finno-Hungarian language 499
+Fire arms 355, 683
+Fire departments 369
+Fire engines 621
+Fire insurance 368
+Fire works 662
+Fishes 597
+Fishes palaeontology 567
+Fisheries 639
+Fishing 799
+Flags 929
+Flanders 949
+Flax 633, 677
+Flemish painting 753
+Flies 595
+Flora 584-589
+Florence 945
+Florida 976
+Flower garden 716, 583
+Flowers 580
+Fluxions 517
+Folk-lore 291-293
+Food 643
+Foreign missions 267
+Foreign relations 327
+Foreign trade 382
+Forgery 345
+Form book 349
+Fortification 623
+Fortune-telling 133
+Fossils 560
+Founderies 671
+Foundling hospitals 361
+Fountains 714
+Fowling 799
+Fowls 636
+Fractures 617
+France 944
+Franchise 324
+Franciscans 271
+Franconia 943
+Franco-Prussian war 943, 944
+Free-hand drawing 741
+Freemasonry 366
+Free trade 337
+Freewill 159
+French language 440
+French language old 449
+French literature 840
+French painting 754
+French philosophy 194
+French revolution 944
+French sculpture 735
+Fresco painting 751
+Friction 531
+Friends, Society of 289
+Friendship 157
+Fruit culture 634
+Fuel 644
+Funds and funding 336
+Funeral sermons 259
+Funerals 390
+Furniture 645
+Future life 218
+Future state 237
+
+=Galleries= of art 708
+  drawing and design 749
+  engraving 769
+  painting 759
+  photography 779
+  sculpture, etc. 739
+Galvanism 537
+Gambling 175
+Game laws 345
+Games 793-7
+Gardening 635
+Gardening Landscape 710
+Gas-fitting 696
+Gas lighting 665, 644
+Gas making 665
+Gastronomy 641
+Gauging 389
+Gazetteers 910
+Gem engraving 736
+Gems 549
+Genealogy 929
+Generation, Spontaneous 577
+Genesis 222
+Genoa 945
+Geodesy 526
+Geography 910
+Geography Africa 916
+Geography ancient 912
+Geography Asia 915
+Geography Europe 914
+Geography historical 911
+Geography modern 913
+Geography N. America 917
+Geography physical 551
+Geography S. America 918
+Geography travels 910
+Geology 550
+Geology dynamical 553
+Geometry 513
+Geometry analytical 516
+Georgia 959, 976
+German language 430
+German language low 439
+German literature 830
+German painting 753
+German philosophy 193
+German Reformed Church 289
+Germany 943
+Ghosts 133
+Gipsies 949
+Girondists 363, 944
+Glaciers 553
+Glass 666
+Glass painting 751
+Glazing 698
+Glees 784
+Globes, use of 522
+Glossaries 413, 423, 433, etc.
+Gloves 646, 675, 677
+Gnostics 281
+God 231
+Gold 549, 671
+Goniometry 514
+Good-Friday 244
+Gospels 226
+Gothic architecture 723
+Goths 943
+Gout 616
+Government 320
+Grace 234
+Grafting 634
+Grains 633
+Grammars, comparative 415
+Grammars, English 425
+Grammars, French 445
+Grammars, German 435
+Grammars, Greek 485
+Grammars, Italian 455
+Grammars, Latin 475
+Grammars, Spanish 465
+Granada 946
+Granges 363
+Grape culture 634
+Grasses 633
+Grasses ornamental 716, 583
+Grave-stones 718
+Grave-yards 719
+Gravitation 531
+Great Britain 941, 942
+Greece, ancient 938
+Greece, modern 949
+Greek architecture 722
+Greek church 281
+Greek commentaries 488
+Greek language 480
+Greek literature 880
+Greek modern 489
+Greek mythology 292
+Greek philosophy 180, 888
+Greek sculpture 733
+Greek texts with notes 488
+Greek texts without notes 880
+Greek translations 880
+Greenhouses 583, 635
+Greenland 998
+Grounds, private 712
+Groves 715
+Guatemala 979
+Guiana 988
+Guide books 910
+Guillotine 345
+Guinea 967
+Gun cotton 355, 662
+Gunnery 355
+Gunpowder 355, 662
+Gunsmithery 683
+Gutta percha 679
+Gymnastics 613
+Gypsies 949
+
+=Habeas= corpus 343
+Hamiltonian philosophy 192
+Harbors 627
+Harmony, music 781
+Harmony of gospels 226
+Harness-making 685
+Harpsichord 787
+Hasheesh 615
+Hats 646
+Health 613
+Health public 614
+Heart diseases 616
+Heat 536
+Heathen religions 290
+Heating 697
+Heaven 237
+Hebrew history 933
+Hebrew language 493
+Hedges 715
+Hegelian philosophy 193
+Heliotypes 774
+Hell 237
+Heraclitic philosophy 182
+Heraldry 929
+Herbariums 582
+Hermaphrodites 590, 612
+Hermeneutics 220
+Herpetology 598
+Hieroglyphics 419
+Higher education 373
+Highwaymen 345
+Histology 611
+Historical books of Bible 222
+Historical charts and tables 908
+Historical geography 911
+Historical societies 906
+History 900
+  ancient 930-939
+  biography of 928
+  ecclesiastical 270
+  fine arts 709
+  geography 910
+  in Greek 889
+  in Latin 879
+  literature 809
+  modern 940-999
+  natural sciences 509
+  philology 409
+  philosophy 109
+  philosophy of 901
+  science 509
+  sociology 309
+  theology 209
+  universal 909
+  useful arts 609
+Histrionics 792
+Holy Land 933, 956
+Home education 371, 374
+Home missions 266
+Homicide 345
+Homiletics 251
+Homoeopathy 615
+Homologies 574
+Honey 638
+Horse 636, 599, 357, 619
+Horse-racing 798
+Horse-riding 798
+Horse-shoeing 682
+Horsemanship 798
+Hortatory theology 243
+Horticulture 635
+Hospitals 361
+Hotels 390
+Hothouses 583, 635
+House-keeping 640
+Housewifery 640
+Huguenots 289, 944
+Human anatomy 611
+Humane societies 361
+Humor 818
+  English 828
+  French 848
+  German 838
+  Greek 887
+  Italian 858
+  Spanish 868
+Hunting 799
+Hurricanes 533
+Husbandry 630
+Hybridism 590
+Hydraulic engineering 628
+Hydraulics 532
+Hydrodynamics 532
+Hydrography 551, 627, 527
+Hydromechanics 532
+Hydropathy 615
+Hydrophobia 614, 616
+Hydrostatics 532
+Hygiene 613
+Hygiene mental 131
+Hymnology 245
+Hypochondria 132, 616
+
+=Icebergs= 553
+Iceland 948
+Icelandic language 498
+Ichnology 560
+Ichthyology 597
+Iconography 730
+Idealistic psychology 141
+Idiocy 132
+Idolatry 290
+Illumination 745
+Imagination 156
+Immersion 264, 286
+Immigration 325
+Immortality 218, 237
+Imprisonment for debt 345
+Incarnation 232
+Income 333
+Incunabula 23
+India, ancient history 934
+India, modern history 954
+Indian language 494
+Indian literature 894
+Indiana 977
+Indians, American 970
+Indians, American language 499
+India-rubber 675
+Indoor amusements 793
+Induction 161
+Inductive logic 161
+Industrial drawing 744
+Industrial schools 607
+Inebriate institutions 364
+Infanticide 173, 345
+Infantry 356
+Infidelity 211
+Inoculation 614, 615
+Inorganic chemistry 546
+Inquisition 272
+Insane Hospitals 361
+Insanity 132
+Inscriptions 417
+Insects 595
+Inspiration 238
+Instincts 158
+Institute of France 64
+Institutions 360
+Institutions educational 378
+Institutions Feudal 322
+Institutions Monarchic 323
+Institutions Musical 789
+Institutions of religion 260
+Institutions Patriarchal 321
+Institutions Republican 324
+Instruction 371
+Instrumental music 785
+Instruments, engineering 629
+Instruments, making 681
+Insurance companies 368
+Integral calculus 517
+Intellect 151
+Intellectual philosophy 140-150
+Intemperance 178
+Intercommunication 380, 650
+Interest 334
+Interest tables 658
+Interior, administration 353
+Intermarriage 136, 618
+Intermediate state 237
+Interments 614, 390
+International exhibitions 600
+International law 341
+Intolerance 272
+Intuitive psychology 143
+Inventions 608
+Invertebrates 592
+Invertebrates paleontology 562
+Ionian Islands 949
+Ionic philosophy 182
+Iowa 977
+Iranian languages 495
+Iranian literature 895
+Ireland 941
+Irish church 283
+Irish language 496
+Iron, bridges 624
+Iron, manufacture 672
+Iron, mineral 549, 669
+Iron-clad ships 359, 699
+Irrigation 631
+Italian language 450
+Italian literature 850
+Italian painting 755
+Italian philosophy 195
+Italian sculpture 734, 735
+Italy 945
+
+=Jacobins= 363, 944
+Jamaica 979
+Jansenism 282
+Japan 952
+Japanese language 499
+Japanning 698
+Java 992
+Jests 819, 829, 839, etc.
+Jesuit missions 266, 282
+Jesuits 271, 282
+Jesus 232
+Jewelry 646, 671
+Jews, history 933
+John 226
+Joinery 694
+Journalism 50
+Judaism 296
+Judgment and future state 237
+Junius letters 329
+Jurisprudence 340
+Jury 342
+Justification 234
+
+=Kafirs= 968
+Kaleidoscope 536
+Kansas 977
+Kant's philosophy 193, 142
+Keltic, ancient history 936
+Keltic, language 496
+Keltic, literature 896
+Kentucky 976
+Kindergarten 372
+Kinematics 531
+Kitchen 641
+Knighthood 322
+Koran 297
+
+=Labor= 331
+Laboring classes 331
+Labrador 972
+Lace-making 677
+Lakes, artificial 714
+Land surveying 622
+Landlord and tenant 333
+Landscape gardening 710
+Landscape painting 758
+Landscape photographs 778
+Language 400
+Lapland 947, 948
+Latin commentaries 488
+Latin language 470
+Latin literary history 470
+Latin literature 870
+Latin medieval 479
+Latin texts, with notes 488
+Latin texts, without notes 870
+Latin translations 870
+Laundry 648
+Law 340
+Law of nations 341
+Lawns 712
+Lawyers' lives 923
+Lead 549, 671
+Leather 675
+Lectures 815, 825, 835, etc.
+Legends 291-293
+Legerdemain 133
+Legislation 343, 328
+Legislative annals 328
+Legitimacy 343
+Lent 244
+Lepidoptera 595
+Letter writing 816
+Letters 816
+Letters--
+  English 826
+  French 846
+  German 836
+  Greek 886
+  Italian 856
+  Latin 876
+  Spanish 866
+Levant 956, 962
+Levelling 622
+Leviticus 222
+Lexicons 413, 423, 433, etc.
+Libel 345
+Liberty 324
+Liberty of press 324
+Libraries 19
+Library catalogues 17, 18
+Library economy 19
+Library history and reports 19
+Lichens 582
+Life, future 218, 237
+Life insurance 368
+Light 535
+Light-houses 656, 627
+Lightning 537
+Lights and fuel 644
+Line engraving 765
+Linguistics 400
+Liquors 663
+Litany 244
+Literary criticism 824, 834, 844, etc.
+  miscellany 819
+  English 829
+  French 849
+  German 839
+  Italian 859
+  Spanish 869
+  property 343
+Literature 800
+Literature, biography of 928
+Literature, classical 870, 880, 488-498
+Literature, treatises 810
+Lithography 763
+Lithology 552
+Liturgies 444
+Locke 192, 145
+Locks and keys 683
+Locomotives 621
+Logarithms 514
+Logarithms tables 514
+Logic 160
+Longevity 312
+Lord's Supper 265
+Lorraine 943, 944
+Lotteries 175
+Louisiana 976
+Low countries 949
+Low Dutch 439
+Luke 226
+Lunacy 132
+Lunatic asylums 361
+Lung diseases 616
+Lutherans 289
+Lyric poetry 811, 821, 831, etc.
+Lyric poetry Greek 884
+Lyric poetry Latin 874
+
+=Macaronics= 819, 829, etc.
+Machine engraving 768
+Machinery 621
+Madagascar 969
+Madness 132
+Magazines 50, 105, 205, etc.
+Magic 133
+Magnetism 538
+Magnetism, animal 134
+Magyars 943
+Mahometanism 297
+Mails 383
+Maine 974
+Malaria 614
+Malayan language 499
+Malaysia 991
+Malt 663
+Malta 949
+Mamelukes 962
+Mammalia 599
+Mammalia, palaeontology 569
+Man, doctrine of 233
+Man, ethnography 390
+Man, natural history of 573
+Maniacs 132
+Manners and customs 390
+Manuals, collectors' 579
+Manufactures 670
+Manures 631
+Manuscripts 13, 21
+Maps 910
+Maps, astronomical 524
+Marble manufacture 673
+Marbles 731
+Marine architecture 699
+Marine insurance 368
+Marine law 346
+Marriage, customs 390
+Marriage, ethics 173
+Maritime law 346
+Mark 226
+Martial law 347
+Martyrs 272
+Maryland 976
+Mason & Dixon's line 326
+Masonry 693
+Masonry, Free 366
+Massachusetts 974
+Materia medica 615
+Materialist 146
+Materials, building 691
+Maternity 136, 618
+Mathematical drawing 744
+Mathematical instruments 629
+Mathematical tables 514
+Mathematics 510
+Matthew 226
+Mausoleums 718
+Maxims 819, 829, 839, etc.
+Measles 616
+Measures and weights 389
+Mechanical drawing 744
+Mechanical engineering 621
+Mechanical trades 680
+Mechanics 531
+Mechanics' associations 606
+Medals 737
+Mediaeval architecture 723
+Mediaeval customs, costumes 392
+Mediaeval design 747
+Mediaeval history _with modern_
+Mediaeval Latin 479
+Mediaeval sculpture 734
+Medical botany 615
+Medical jurisprudence 343
+Medicine 610
+Medicine, veterinary 619
+Meditations, theology 242
+Melodeons 786
+Melody 781
+Memoirs 920
+Memory 154
+Mensuration 612
+Mental derangement 132
+Mental faculties 150
+Mental hygiene 131
+Mental philosophy 140-150
+Mental physiology 131
+Mesmerism 134
+Messiah 232
+Metal manufactures 671
+Metallurgy 669
+Metaphysics 110
+Meteorology 551
+Methodism 287
+Methodology 112
+Methods of education 371
+Metric system 389
+Metrology 389
+Mexican war 973, 978
+Mexico 978
+Mezzotint 776
+Michigan 977
+Microscopy 578
+Middle ages, history, _see_ special countries.
+Middle States 975
+Midwifery 618
+Military and naval arts 355-359
+  engineering 623
+  law 347
+  science 355
+Militia 355
+Milk 637
+Millennium 236
+Millinery 646
+Mills, cot., woolen, etc. 677, 678
+  paper 676
+Mill-work 621
+Mind 150
+Mineral waters 615
+Mineralogy 549
+Mines, mining, engineering 628
+Miniatures 757
+Ministers 250
+Ministers lives 922
+Minnesota 977
+Minstrelsy 811, 821, 831, etc.
+Miracles 231
+Miscellany, literary 819
+  English 829
+  French 849
+  German 839
+  Italian 859
+  Spanish 869
+Missions 266
+Missions, foreign 267
+Mississippi 976
+Missouri 977
+Mnemonics 154
+Modeling 731
+Modern architecture 724
+Modern costumes, customs 393-399
+Modern designs 748
+Modern geography 9l3-9l9
+Modern Greek 489
+Modern history 940-999
+Modern philosophy 190
+Modern sculpture 735
+Mohammedanism 297
+Molecular physics 539
+Mollusca 594
+  paleontology 564
+Monarchic institutions 323
+Monasteries 271
+Monastic orders 271
+Money 332
+Mongolian language 499
+Monitors, iron-clads 359, 699
+Monograms 745-748
+Monopolies 331
+Montana 977
+Monuments 718
+Moon 523
+Moral philosophy 170
+Moravians 289
+Moravian missions 266
+Morea 949
+Mortar 693
+Mortality 312
+Mortgages 343
+Mormonism 298
+Morocco 964
+Morphology 581
+Mosaic painting 751
+Moslems 297
+Mosquitia 979
+Mosses 582
+Mothers 173
+Moths 595, 646
+Mouldings 721
+Municipal government 342
+Mutual aid societies 361
+Music 780
+Musical composition 781
+Musicians 927
+Mysteries 133
+Mysticism 289
+Mythology, comparative 291
+Mythology, Greek & Roman 292
+Mythology, Norse 293
+
+=Names= 929
+Narcotics 615
+National costumes 390
+National customs 390
+Natural history 550-590
+Natural philosophy 530
+Natural science 500
+Natural selection 575
+Natural theology 210
+Naturalization 343, 325
+Nature 500
+Naval architecture 699
+Naval science 359
+Navies 359
+Navigation 527, 656
+Navigation laws 346
+Nebraska 977
+Necromancers 133
+Needle-work 646, 793
+Negroes 573, 326
+Nepotism 323
+Nestorians 281
+Netherlands 949
+Neuroptera 595
+Neutrals 341
+Nevada 977
+New Brunswick 972
+New England 974
+New Granada 986
+New Guinea 995
+New Hampshire 974
+New Jersey 975
+New Mexico 977
+New Platonists, philosophy 186
+New Testament 225
+New York 975
+Newfoundland 971
+Newspapers 50
+Nicaragua 979
+Nobility 322
+Non-Christian religions 290
+Normal schools 371
+Norman conquest 942-946
+Normandy 944
+Norse 498
+North Africa 961
+North America 970
+North America botany 578
+North America customs & costumes 397
+North America ecclesiastical history 277
+North America, geography 917
+North America, geology 557
+North America, history 970
+North America, statistics 317
+North America, travels 917
+North Carolina 976
+Northmen 948
+Norway 948
+Nosology 616
+Nova Scotia 972
+Novels 813
+  English 823
+  French 843
+  German 833
+  Italian 853
+  Spanish 863
+Nubia 962
+Numbers, book of 222
+Numismatics 374
+Nunneries 362
+Nursery 649
+
+=Object teaching= 371
+Observations, astronomical 525
+Obstetrics 618
+Ocean transportation 387, 656
+Oceanica 990
+  botany 589
+  customs and costumes 399
+  ecclesiastical history 279
+  geography 919
+  geology 559
+  history 990
+  statistics 319
+  travels 919
+Odd Fellows 366
+Odontology 611, 617
+Ohio 977
+Old French 449
+Old Testament 221
+Oil manufacture 664
+Oil painting 751
+Ontology 111
+Operas 782
+Opium 615
+Optics 535
+Oracles 133
+Oratorios 783
+Oratory 815
+  English 825
+  French 845
+  German 835
+  Greek 885
+  Italian 855
+  Latin 875
+  political 329
+  sacred 251
+  Spanish 865
+Orchards 634
+Orders of architecture 722-724
+Ordination sermons 257
+Ordnance 355, 683
+Oregon 977
+Organ 786
+Organic chemistry 547
+Organic remains 562
+Oriental architecture 722
+Oriental church 281
+Oriental languages 490
+Oriental philosophy 181
+Origin of language 400
+Ornamental botany 583
+Ornamental design 745
+Ornamental work 745
+Ornithology 598
+Orphans 361
+Orthoepy 411, 421, 431, etc.
+Orthography, comparative 411
+  English 421
+  French 441
+  German 431
+  Greek 481
+  Italian 451
+  Latin 471
+  Spanish 461
+Ottoman empire 949, 956
+Out-door sports 796-799
+Oxford University 378
+Oysters 594, 641
+
+=Paganism= 290
+Painters' lives 927
+Painting 750, 698
+Palaeontology 560
+Palestine 956
+Pantheism 212
+Pantheistic psychology 147
+Papacy 282
+Paper-hanging 698
+Paper manufacture 676
+Paper money 332
+Papua 995
+Paraguay 989
+Parchment 10
+Parent and child 173
+Parish law 343
+Parks, public 711
+Parliament 324
+Parliamentary law 348
+Parrots 598
+Parseeism 295
+Partnership 343
+Parturition 618
+Passions 157
+Pastoral theology 250
+Patagonia 989
+Patents 608
+Pathology 616
+Patriarchal institutions 321
+Patriotism 172
+Patristic philosophy 189
+Patronage 177
+Pauperism 339
+Pawnbroking 334
+Peace and war 172
+Pears 634
+Peat 644
+Pedobaptism 264
+Peerage 322
+Peloponnesus 938, 949
+Penal law 345
+Penance 244
+Peninsular war 946
+Penitentiaries 365
+Penmanship 652
+Pennsylvania 975
+Pentateuch 222
+Perception 152
+Perfectionists 289
+Perfumery 660, 646
+Periodicals, _see_ special subjects.
+  fine arts 705
+  general 50
+  history 905
+  literature 805
+  natural science 505
+  philology 405
+  philosophy 105
+  science 505
+  sociology 305
+  theology 205
+  useful arts 605
+Perpetual motion 531
+Persecutions 272
+Persia, ancient history 935
+Persia, modern history 955
+Persian language 495
+Personal liberty 342
+Personal property 342
+Personal rights 342
+Perspective 742
+Peru 985
+Pests, agricultural 632
+Petrifaction 560
+Petroleum 549, 665
+Pharmacopoeias 615
+Pharmacy 615
+Phi Beta Kappa 366
+Philology 400
+  biography of 924
+Philosophy 100
+Philosophy ancient 180
+  biography of 921
+  Greek 180, 888
+  Latin 878
+  mental 150
+  modern 190
+  moral 170
+  natural 530
+  of art 701
+  history 901
+  language 401
+  literature 801
+  science 501
+  sociology 301
+  religion 201
+  useful arts 601
+Phoenicia 939
+Phoenician language 493
+Phonetic short-hand 653
+Phonetic spelling 421
+Phonography 653
+Phonology 414
+Photographic chemistry 771
+Photographs 773
+Photography 770
+Photo-lithography 775
+Phrase-books, _see_ Language.
+Phrenology 139
+Phthisis 616
+Physical education 613
+Physical geography 551
+Physics 530
+Physics molecular 539
+Physiognomy 138
+Physiography 551
+Physiology 612
+Physiology comparative 591
+Physiology, mental 131
+Physiology, vegetable 581
+Piano-forte 786
+Picture galleries 759
+Piedmont 945
+Pig 636
+Piracy 345
+Pisciculture 639
+Plague 616, 614
+Planets 523
+Plans for building 692
+Plants 580
+  landscape gardening 716
+  paleontology 561
+Platonic philosophy 184
+Platonists, new 186
+Playing cards 795
+Plays, _see_ Drama 812, 792
+Pleading 349
+Plumbing 696
+Plurality of worlds 521
+Pneumatics 533
+Pneumatology 150
+Poetical books of Bible 223
+Poetry 811
+  English 821
+  French 841
+  German 831
+  Greek 881
+  Italian 851
+  Latin 871
+  Spanish 861
+Poets, lives 928
+Poisons 615
+Poland 949
+Polar Regions, geography 919
+Polar seas 998, 999
+Police 354
+Polish language 497
+Politeness 177
+Political associations 363
+Political economy 330
+Political essays 329
+Political institutions 363
+Political science 320
+Political sermons 256
+Political speeches 329
+Polity, ecclesiastical 262
+Polygamy 173, 345
+Polygraphy 40
+Polynesia, botany 589
+  customs and costumes 399
+  ecclesiastical history 279
+  geography 919
+  geology 559
+  history 996
+  languages 499
+  statistics 319
+  travels 919
+Polyps 593
+Polytheism 290
+Pomology 634
+Ponds, artificial 714
+Poor 339
+Poor laws 343
+Popery 282
+Population 312
+Porcelain 738
+Portrait painting 757
+Portraits, photographs 777
+Portugal 946
+Portuguese language 469
+Portuguese literature 860
+Positivism 146
+Postage-stamps 383
+Post-offices 383
+Potato 635
+Pottery 673
+Pottery manufacture 673
+Poultry 636
+Powder 662, 355
+Practical astronomy 522
+Practical theology 240
+Practical sermons 254
+Practice of medicine 615
+Prayer 217
+Prayer-meetings 247
+Preaching and preachers 250
+Precedents 343
+Precious metals 549
+Predestination 231
+Pregnancy 618
+Pre-historic archaeology 571
+Presbyterians 284
+Prescriptions 615
+Press, liberty of 324
+Primeval man 571
+Primitive Christianity 270
+Primogeniture 322
+Printing 655
+Prints 769
+Prison associations 365
+Prisons 365
+Private grounds 712
+Private worship 248
+Privateers 341
+Probabilities 519
+Production 338
+Productions of the soil 633
+Progress of civilization 312
+Progress of population 313
+Prohibited books 28
+Prohibition 178
+Projectiles 358, 531
+Projection 744
+Promissory notes 343
+Pronunciation, 411, 421, 431, etc.
+Property 331
+Property law 342, 343
+Property tax 336
+Prophecy 231
+Prophetical books of Bible 224
+Prose composition, Greek 485
+Prose composition, Latin 475
+Prosody, comparative 416
+  English 426
+  French 446
+  German 436
+  Greek 486
+  Italian 456
+  Latin 476
+  Spanish 466
+Prostitution 618, 176
+Protection 337
+Protestant episcopal 283
+Protestantism 283-289
+Protestantism and Romanism 282
+Protoplasm 576
+Protozoa 593
+  paleontology 563
+Provencal language 449
+Proverbs, and quotations 819
+Proverbs, Bible 223
+Providence 2l4
+Provincialisms 427, 437, etc.
+Pruning 634, 715
+Prussia 943
+Psalms 223
+Pseudonyms 14
+Psychology 140
+Public accounts 336
+Public buildings 725
+Public charities 361
+Public documents 328
+Public education 370
+Public funds 336
+Public health 614
+Public houses 390
+Public lands 353
+Public meetings 360
+Public schools 378
+Public speaking 815
+Public worship 246
+Pulpit oratory 250
+Pumps 532
+Punctuation, English 421
+Punishment 345
+Puritans 277, 289
+Puseyism 244, 283
+Pygmies 599
+Pyramids 916, 932
+Pyrites 549
+Pyrotechnics 662
+Pyrrhonism 186
+Pythagorean philosophy 182
+
+=Quadrumana= 599
+Quadrupeds 599
+Quakers 289
+Qualitative analysis 544
+Quantitative analysis 545
+Quarantine 614
+Quaternions 518
+Quotations 819, 829, etc.
+
+=Race-horse= 798
+Races, history 572
+Racing 798
+Radiates 593
+Radiates paleontology 563
+Railroad engineering 625
+Railroad locomotives 621
+Railroads 385
+Railways, laws of 343
+Rain 551
+Rank 322
+Rationalism 211, 155
+Readers 418, 428, 438, etc.
+Reading, art of 815
+Reading courses 15, 16
+Reading for self-education 374
+Real estate law 343
+Reason 155
+Rebellion, Southern 973
+Recipe books 640
+Recreation 790
+Reformation 274
+Reformatory associations 364
+Reformatory institutions 364
+Reformed church 289
+Regeneration 234
+Regimen 613
+Regulations of armies 355
+Regulations of navies 359
+Religion and science 215
+Religion and sermons 255
+Religions, Non-Christian 290
+Religious anecdotes 249
+Religious associations 362
+Religious biography 922
+Religious education 377
+Religious fiction 249
+Religious institutions 362
+Religious orders 271
+Religious philosophy 201
+Remains 560
+Rents 333
+Repentance 234, 241
+Reptiles 598
+Reptiles paleontology 568
+Republican institutions 324
+Resistance of materials 691
+Resurrection 236
+Retribution 237
+Revealed religion 231
+Revelation 231
+Revenue 336
+Reviews, _see_ Periodicals.
+Revivals 269
+Revolution, American 973
+Revolution, French 944
+Rhetoric 815
+Rhetoric sacred 251
+Rhode Island 974
+Rhododendron 582
+Riddles 819, 829, etc.
+Riding 798
+Right of search 341
+Rights and liberties 342
+Riots 343
+Ritualism 244
+River transportation 387
+Rivers 551
+Roads 625
+Rocky mountains 557, 917
+Rodentia 599
+Roman antiquities 937
+Roman architecture 722
+Roman Catholics 282
+Roman history, ancient 937
+Roman history, modern 945
+Roman literature 870
+Roman law 348
+Roman mythology 292
+Roman sculpture 733
+Romance 813
+  English 823
+  French 843
+  German 833
+  Italian 853
+  Religious 249
+  Spanish 863
+Romanic languages 440-469
+Romansh language 459
+Rome, ancient 937
+Rome, modern 945
+Romish church 282
+Rope-making 677
+Rowing 797
+Rubber manufactures 675
+Ruminants 599
+Rural architecture 728
+Rural sports 796
+Russia 947
+Russian America 977
+Russian language 497
+
+=Sabbatarians= 289
+Sabbath 263
+Sabbath reform 263
+Sabbath schools 268
+Sacrament of baptism 264
+Sacrament of Lord's Supper 265
+Sacred biography 922
+Sacred rhetoric 251
+Sacrifices 221
+Saddlery 685
+Sailors 387
+St. Domingo 979
+Sale catalogues of books 17, 18
+Salt manufacture 664
+Salvation 234
+Sandwich Islands 997
+Sanitary commissions 364
+Sanitary commissions U.S. 361
+Sanitary measures 614
+Sanskrit language 494
+Sardinia 945
+Satan 235
+Satire 817
+  English 827
+  French 847
+  German 837
+  Italian 857
+  Latin 877
+  Spanish 867
+Savings banks 332
+Saxon language 429
+Saxons 943
+Scandinavia 948
+Scandinavian language 498
+Scandinavian literature 898
+Scepticism 211
+Scholastic philosophy 198
+Schools 378
+Schools Sunday 268
+School architecture 727
+School houses 727
+Schools of art 707
+Schools of painting 753-756
+Schopenhauer's philosophy 193
+Schleswig-Holstein 943
+Science, Natural 500
+  biography of 925
+Scientific societies 506
+Scientific travels 508
+Scotland 941
+Scotch language 496
+Scotch philosophy 192
+Scriptures 220
+Scrofulous diseases 616
+Sculpture 730
+Sculptors' lives 927
+Seamanship 656, 527
+Secession 342
+Second advent 236
+Second sight 133
+Secret societies 366
+Sects, Christian 280
+Secular education 377
+Self-culture 374
+Self-education 374
+Semitic languages 493
+Semitic literature 893
+Sensation 152
+Sensational psychology 145
+Sense 152
+Sepulchres 718
+Sepulture 614
+Sermons 252-259
+Serpents 598
+Servants 647
+Servia 949
+Sewerage 614
+Sewing 687
+Sewing machine 687
+Sex in education 376
+Sexual ethics 176
+Sexual science 618
+Sexes 136
+Shades and shadows 744
+Shakers 289
+Shakesperiana 822
+Sheep 636
+Shells 594
+Shells fossil 564
+Shemitic languages 493
+Ship-building 699
+Ship-canals 626, 387
+Shipping laws 346
+Shoemaking 685, 675
+Shooting 799
+Short-hand 653
+Shrubbery 716
+Siam 959
+Siberia 957
+Sicily 945
+Sick-room 649
+Sieges 355, 623
+Sight 536
+Sight hygiene 613
+Signals 654
+Sign painting 698
+Silk culture 638
+Silk manufacture 677
+Silk worm 638, 595
+Silver metal 549
+Silver mines 628
+Silver money 332
+Sin 233
+Singing 784
+Sisters of Mercy 362
+Skating 796
+Skepticism 211
+Skin diseases 616
+Skye 941
+Slander 177, 345
+Slang 427, 437, etc.
+Slating 695
+Slavery 326
+Slavic language 497
+Slavic literature 897
+Sleep 135
+Sleep walking 135
+Small-pox 616, 614
+Soap-making 664
+Social ethics 177
+Social science 300
+Social worship 247
+Socialisms 335
+Societies, fine arts 706
+Societies, general 60
+Societies, history 906
+Societies, literature 806
+Societies, natural science 506
+Societies, philology 406
+Societies, philosophy 106
+Societies, science 506
+Societies, secret 366
+Societies, sociology 306
+Societies, theology 206
+Societies, useful arts 606
+Society 177
+Sociology 300
+Sociology biography of 923
+Socratic philosophy 183
+Soils 631
+Solar system 523
+Soldiers 355
+Somnambulism 135
+Songs 784
+Sonnets 811, 821, etc.
+Sophist philosophy 183
+Sorcery 133
+Soul 233
+Sound 534
+South Africa 968
+  botany 586
+  geography 916
+South America 980
+  botany 588
+  customs and costumes 398
+  ecclesiastical history 278
+  geography 918
+  geology 558
+  history 980
+  statistics 318
+  travels 918
+South Carolina 976
+South seas 999
+Southern States 976
+Spain 946
+Spanish language 460
+Spanish literature 860
+Spanish philosophy 196
+Specie payment 332
+Specifications for building 692
+Specters 133
+Spectroscope 535
+Spectrum analysis 544
+Speeches, _see_ Oratory.
+Spherical astronomy 521
+Spherical geometry 513
+Spherical trigonometry 514
+Spiders 595
+Spinoza's philosophy 147
+Spiritualism 133
+Spontaneous generation 577
+Sports 796
+Stables 636
+Stage 792
+Stained glass 745
+Stammering 616
+Stamps 383
+Standing army 355
+Starch manufacture 664
+Stars 523
+State 320
+State ethics 172
+State papers 328
+State rights 342
+State trials 345
+Statesmen, lives 923
+Statics 531
+Statistical methods 311
+Statistics 310
+Statuary 730
+Statute law 343
+Steam-engine 621
+Steam-fitting 696
+Steam-navigation 527, 656
+Steam-transportation 385, 656
+Steel 669
+Steel engraving 762
+Stenography 653
+Stereotyping 655
+Stereoscopes and views 776
+Stethoscope 616
+Stipple engraving 765
+Stock, live 636
+Stocks 333
+Stoic philosophy 188
+Stoneware 673
+Storms 551
+Stills 663
+Strategy 355
+Strawberries 634
+Stringed instruments 787
+Study, methods of 371
+Stuttering 616
+Sublime and beautiful 701
+Submarine telegraph 384
+Succession 323
+Suffrage 324
+Sugar-cane 633
+Sugar manufacture 664
+Sugar planting 633
+Suicide 131
+Sumatra 992
+Summer-houses 717
+Sun 523
+Sunda 992
+Sunday-schools 268
+Supernaturalism 133
+Superstition 133
+Surgery 617
+Surnames 929
+Surveying 622
+Susceptibility 157
+Sweden 948
+Swedenborgians 289
+Swimming 796
+Swine 636
+Switzerland 949
+Syllogism 160
+Symbolism 219
+Synonyms, English 424
+Synonyms, French 444
+Synonyms, German 434
+Synonyms, Greek 484
+Synonyms, Italian 454
+Synonyms, Latin 474
+Synonyms, Spanish 464
+Syphilis 616
+Syria 956
+Syriac language 493
+Syro-Chaldaic 493
+Systematic botany 582
+
+=Tableaux= 791
+Tables, dining 643
+Tables, mathematical 514
+Tachygraphy 653
+Tactics 355
+Tailoring 687
+Takigrafy 653
+Tales, _see_ Romance.
+Talmud 296
+Tanning 675
+Tariffs 337
+Tartary 951, 959
+Taste and criticism 701
+Taxation 336
+Taxidermy 579
+Tea cultivation 633
+Teachers and teaching 371
+Technology, chemical 660
+Teeth 611, 617
+Tehuantepec 978
+Telegraph 384
+Telegraphy 654
+Telescope 535, 522
+Temperaments 137
+Temperance 178
+Temperature 551, 536
+Templars 366
+Tennessee 976
+Testacea 594
+Testament, New 225
+Testament, Old 221
+Testamentary law 349
+Testimony 349
+Texas 976
+Textile fabrics 677
+Texts, comparative 418
+Texts, English 428
+Texts, French 448
+Texts, German 438
+Texts, Greek, with notes 488
+Texts, Greek, without notes 880
+Texts, Italian 458
+Texts, Latin, with notes 478
+Texts, Latin, without notes 870
+Texts, Spanish 468
+Thanksgiving 244
+Theater, _see_ Drama.
+Theater, ethics 175
+Theaters 792
+Theatricals 792
+Theft 345
+Theism 211
+Theodicy 231, 214
+Theological doctrine 230
+Theological essays 204
+Theology 200
+Theology biography of 922
+Theology devotional 240
+Theology natural 210
+Theology practical 240
+Theoretical astronomy 521
+Theoretical chemistry 541
+Theoretical ethics 171
+Therapeutics 615
+Thibet 951
+Thirty-nine articles 283
+Thomsonianism 615
+Thought 153
+Throat diseases 616
+Thunder 537
+Tides 521
+Tiling 695
+Timber 691
+Tin manufacture 671
+Tin mineral 549
+Tithes 336
+Tobacco 615, 178, 633
+Toilet 646
+Tolls 336
+Tombs 718
+Topographical engineering 622
+Topography 910
+Total abstinence 178
+Toxicology 615
+Tractarianism 244, 283
+Tract society 362
+Trade 380
+Trade marks 608
+Trades, mechanic 680
+Trades, unions 367, 606, 331
+Tragedies, _see_ Drama.
+Transactions 106, 206, 306, etc.
+Transcendentalism 142
+Translation, Greek authors 880
+Translation, Latin authors 870
+Transportation 380, 656, 345
+Transubstantiation 282
+Transylvania 943
+Trapping 639
+Travels 910
+Travels scientific 508
+Treason 345
+Treasury 352
+Trees 580
+Trees, ornamental 715
+Trespass 345
+Trials 340
+Trigonometry 514
+Trilobites 565
+Trinity 232
+Troubadours 449, 841
+Trunk-making 685
+Trusts and trustees 344
+Tungusic language 499
+Tunnels 625
+Turkey 949
+Turkey in Asia 956
+Turkish baths 613
+Turkish language 499
+Turning 674
+Tuscany 945
+Type founding 671
+Typography 655
+Tyrol 943
+
+=Understanding= 153
+Uniforms 355
+Unitarians 288
+United States 324, 973
+  botany 587
+  customs and costumes 397
+  ecclesiastical history 277
+  geography 917
+  geology 557
+  history 973
+  statistics 317
+  travels 917
+Universal History 909
+Universal language 408
+Universalism 288
+Universities 378
+University education 373
+Upholstering 645
+Uruguay 989
+Useful arts 600
+  biography of 926
+Usury 334
+Utah 977
+
+=Vases= 738
+Vaudois 272, 949
+Vegetable physiology 581
+Vegetable practice 615
+Vegetables 635
+Vegetarianism 613
+Venereal diseases 616
+Venezuela 987
+Venice 945
+Ventilation 697
+Ventriloquism 133
+Vermont 974
+Versification 811
+Vertebrates 596
+Vertebrates paleontology 566
+Veterinary medicine 619
+Villas 728
+Violin 787
+Virginia 976
+Virtue 170
+Vision 535
+Visions and dreams 135
+Vital principle 576, 612
+Vocal culture 784, 815
+Vocal music 784
+Voice 784
+Volcanoes 553
+Voyages 910
+
+=Wages= 331
+Wakefulness 135
+Waldenses 272, 945
+Wales 942
+Walks 713
+Wallachian language 459
+War ethics 172
+War science 355-359
+Warehouses 380
+Warming 697
+Washing 648
+Washington territory 977
+Watch-making 681
+Water, artificial ponds, etc. 714
+Water colors 751
+Water cure 615
+Water wheels 531, 621
+Water works 628
+Watering-places 613
+Wax flowers 745
+Wealth 331
+Weather 551
+Weaving 677
+Weights and measures 389
+Welsh language 496
+West Indies 979
+West Virginia 976
+Western States 977
+Whale 599
+Whale fisheries 639
+Wheat 633
+Whigs 324
+Whigs English 323
+Whist 795
+Will 159
+Wills 343
+Wind instruments 788
+Wine 663
+Wisconsin 977
+Wit 819, 829, 839, etc.
+Witchcraft 133
+Woman, education 376
+Woman, suffrage 324
+Wood engraving 761
+Wood manufactures 674
+Wool 636
+Wool manufactures 677
+Working classes 331
+Worship 246-248
+Writing 651
+Writing short-hand 653
+
+=Xylography= 655
+
+=Yachting= 797
+Year books 313
+Yellow fever 616
+Young men's association 362
+
+=Zend= 295
+Zend Avesta 295
+Zodiac 521
+Zooelogy 590
+Zooephytes 593
+Zoroaster 295
+
+
+
+
+       *       *       *       *       *
+
+EXPLANATIONS.
+
+       *       *       *       *       *
+
+
+
+The titles of the subject catalogue are exact transcriptions of the title
+page, neither amended, translated, or in any way altered, except that
+mottoes, titles of authors, repetitions, or matter of any kind not
+essential to a clear titular description, are _omitted_. Omissions of
+mottoes are indicated by three stars (* * *); of other matter by three
+dots (...). The phraseology, spelling, and punctuation of the title
+are exactly copied; but capitals are given only to proper names and
+adjectives, and initial words of sentences. Any additions needed to make
+the title clear are supplied and enclosed by brackets.
+
+After the titles, are given in order: the place of publication; the year;
+the year of copyright, if different, in brackets; the edition; the number
+of volumes, or of pages if in only one volume; the illustrations, maps,
+plates, or portraits; and the size nearest in the arbitrary scale,
+regardless of the fold of the sheet. This scale gives the heights in
+decimeters. Square and oblong books have the size prefixed by _sq_. or
+_ob_. Books 1 decimeter high are called 32 deg.; 1.5 deci., 16 deg.; 2 deci.,
+12 deg.; 2.5 deci., 8 deg.; 3 deci., 4 deg.; and all others are marked simply by the
+nearest height, i.e. a book marked 4 is between 3.5 and 4.5 decimeters
+high. In books having more than one pagination the number of pages is
+indicated by giving the last number of each pagination connected by a +;
+an added + indicates additional matter unpaged.
+
+These imprint entries give the facts regardless of the title page, and
+are left blank only when they can be ascertained neither from the book
+itself or other sources.
+
+The contents of volumes are given when on title pages, or when necessary
+to properly identify the volume, but no analysis is attempted. Necessary
+notes are given at the bottom of the subject card after the imprint
+entries.
+
+Duplicates are simply marked copy 2, copy 3, etc., and bear the same
+class and book number, but editions of the same book distinct in
+character are catalogued separately.
+
+In all the catalogues, books are entered under the _surnames_ of authors
+when known; under the _initials_ of author's names, when these only
+appear, the last initial being put first; under the _pseudonyms_ of the
+writers, when the real names are not ascertained; under the names
+of _editors_ of collections; under the names of _countries, cities,
+societies,_ or other _bodies_ which are responsible for their
+publication; under the _first word_ not an article of the titles of
+periodicals and of anonymous books the names of whose authors are not
+ascertained. _Commentaries_ with the text, and _translations_ are
+entered under the heading of the original work, but commentaries without
+the text are entered under the name of the _commentator_. The Bible or
+any part of it in any language is entered under the word _Bible_. Books
+having more than one author are entered under the first named on the
+title.
+
+In the headings of titles, the names of authors are given in their
+vernacular form. In English and French surnames beginning with a prefix
+(except the French de and d') the name is recorded under the prefix. In
+other languages and in French names beginning with de and d', the name
+is recorded under the word following the prefix. Compound surnames are
+entered under the first part of the name. Noblemen and ecclesiastical
+dignitaries are entered under their family names, but _sovereigns,
+princes, oriental writers, friars, persons canonized_, and all other
+persons known _only_ by their first name, are entered under this first
+name.
+
+The catalogue is not a biographical dictionary, so only gives the names
+of authors with sufficient fullness to distinguish them from each other
+in practical use.
+
+Names in =full face type= are the ruling headings under which the books
+are entered in the various catalogues. Entries not beginning with this
+type are in addition to the first or main entry, and are made under the
+names of _translators, editors, commentators, continuators_, etc., as
+participators in the authorship; also in the case of books having more
+than one author, or having both generic and specific titles, or published
+by societies or other bodies, and having also the name of the individual
+author. These additional entries are made in order to carry out the plan
+of the Authors' Catalogue, which aims to give under each author's name
+all his works which the library contains.
+
+The works of an author known by more than one name are given all
+together, under the form of name chosen. Any other name or title by which
+he may be known, if it differs in the first three letters, is entered in
+its alphabetical place, followed by the word _see_ and the name under
+which the books are entered. Such cross references have no titles given
+under them, but are simply guides to the name chosen.
+
+A single dash indicates the omission of the preceding heading; a
+subsequent dash indicates the omission of a subordinate heading or of a
+title. A dash connecting numbers signifies _to and including_; following
+a number it signifies _continuation_. A ? following a word or entry
+signifies _probably_. Brackets enclose words added to titles or changed
+in form.
+
+The German diphthongs ae, oe, ue are written, ae, oe, ue.
+
+Dates are all given in years of the common calendar, and Arabic numerals
+are uniformly used for all numbers.
+
+
+
+SUBJECT CATALOGUE.
+
+
+The Subject Catalogue on large cards can be used to advantage only with
+the aid of the _Classification_ or _Index_. To find what the library
+has on any given subject, get from the Index the class number of that
+subject. Under this number in the Subject Catalogue will be found the
+full titles of the books, with imprints, cross references, and notes. The
+class number, by which the cards are arranged, is given in the upper
+left corner and immediately under it is the book number. Any other class
+number given in the left hand margin refers to another subject of which
+the book also treats. When the class number at the top is followed by an
+additional figure in brackets, the subject as given in the printed scheme
+has been subdivided in arranging the cards. This subdivision will be
+found on the first card of the catalogue which bears this class number.
+These figures in brackets determine the arrangement of the titles in the
+Catalogue, but on the shelves, in the Shelf Catalogue, and in calling for
+and charging books, they are entirely disregarded. Thus a book numbered
+942(7).14 would be in the Catalogue among the 942 cards arranged by the
+figure in brackets as though it were a decimal, but it would be called
+for as 942.14, the brackets indicating that the final classing was
+limited to the Catalogue and was not extended to the shelves. If a fourth
+figure is added without brackets, the final classing is extended to the
+shelves as well as to the catalogue, and all the figures must be used
+in calling for the book. In such cases the added figure is treated as a
+decimal in the arrangement, though the decimal point is not written.
+
+The last card which bears any class number, gives under that number,
+followed by the word SEE the call numbers of other books which treat of
+the same subject, but are classed elsewhere. General cross references
+are also made in many cases without specifying individual books, as from
+_Commerce_ as a question of SOCIAL SCIENCE (380) to _Commerce_ as a
+USEFUL ART, Book-keeping Business Manuals, etc. (650). In such cases
+there is a card under 380 marked SEE 650, and under 650 there is a card
+marked SEE 380. From whatever stand-point a subject is approached, the
+cross references guide at once to the same subject treated in its other
+relations. These cross references both general and specific are often
+accompanied by brief notes, characterizing the books to which reference
+is made.
+
+There will be found at the beginning of many class numbers, a card noting
+the most reliable books on that subject, and the best of the articles in
+periodicals, transactions, and collected works with the volume and page
+where they may be found. It is hoped to give special prominence to these
+notes for the guidance of readers, and they will be added as rapidly as
+other duties allow.
+
+Many subjects will have no sub-section cards at the beginning; some will
+have no reference cards at the end; and some may have no titles given
+under the number. The scheme provides a place for books on all subjects,
+whether the library has them or not, so where no titles are given under
+a class number it shows that the library has as yet no books on that
+subject.
+
+Articles in periodicals and transactions, separate volumes of sets and
+collections which are located together, _if catalogued_ are put under
+their proper subject number, but no _book number_ is given with it. The
+call number of the book, where they may be found, is always given in the
+margin preceded by the word IN. In the same way special chapters in books
+will sometimes be catalogued, _e.g._ a card marked 338 IN 331-27, would
+mean that in the 27 books on 331, _Capital and Labor_, there was a
+chapter on 338, _Production_.
+
+
+
+
+
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of A Classification and Subject Index for
+Cataloguing and Arranging the Books and Pamphlets of a Library [Dewey Decimal Classification], by Melvil Dewey
+
+*** END OF THIS PROJECT GUTENBERG EBOOK DEWEY DECIMAL CLASSIFICATION ***
+
+***** This file should be named 12513.txt or 12513.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.net/1/2/5/1/12513/
+
+Produced by Suzanne Shell, Lesley Halamek and PG Distributed Proofreaders
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.net/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Each eBook is in a subdirectory of the same number as the eBook's
+eBook number, often in several formats including plain vanilla ASCII,
+compressed (zipped), HTML and others.
+
+Corrected EDITIONS of our eBooks replace the old file and take over
+the old filename and etext number.  The replaced older file is renamed.
+VERSIONS based on separate sources are treated as new eBooks receiving
+new filenames and etext numbers.
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.net
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+EBooks posted prior to November 2003, with eBook numbers BELOW #10000,
+are filed in directories based on their release date.  If you want to
+download any of these eBooks directly, rather than using the regular
+search system you may utilize the following addresses and just
+download by the etext year.
+
+     http://www.gutenberg.net/etext06
+
+    (Or /etext 05, 04, 03, 02, 01, 00, 99,
+     98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)
+
+EBooks posted since November 2003, with etext numbers OVER #10000, are
+filed in a different way.  The year of a release date is no longer part
+of the directory path.  The path is based on the etext number (which is
+identical to the filename).  The path to the file is made up of single
+digits corresponding to all but the last digit in the filename.  For
+example an eBook of filename 10234 would be found at:
+
+     http://www.gutenberg.net/1/0/2/3/10234
+
+or filename 24689 would be found at:
+     http://www.gutenberg.net/2/4/6/8/24689
+
+An alternative method of locating eBooks:
+     http://www.gutenberg.net/GUTINDEX.ALL
+
+
