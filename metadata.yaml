@@ -1,0 +1,27 @@
+_repo: A-Classification-and-Subject-Index-for-Cataloguing-and-Arranging-the-Books-and-Pamphlets-of-a__12513
+_version: 0.0.1
+alternative_title: Dewey Decimal Classification
+creator:
+  author:
+    agent_name: Dewey, Melvil
+    birthdate: 1851
+    deathdate: 1931
+    gutenberg_agent_id: '4402'
+    url: http://www.gutenberg.org/2009/agents/4402
+    wikipedia: http://en.wikipedia.org/wiki/Melvil_Dewey
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12513'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Z'
+- !lcsh 'Classification, Dewey decimal'
+- GITenberg
+title: A Classification and Subject Index for Cataloguing and Arranging the Books
+  and Pamphlets of a Library
+url: http://www.gutenberg.org/ebooks/12513
