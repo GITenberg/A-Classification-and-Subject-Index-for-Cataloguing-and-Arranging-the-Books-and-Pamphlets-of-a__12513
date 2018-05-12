@@ -1,6 +1,9 @@
 _repo: A-Classification-and-Subject-Index-for-Cataloguing-and-Arranging-the-Books-and-Pamphlets-of-a__12513
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Dewey Decimal Classification
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dewey, Melvil
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4402
     wikipedia: http://en.wikipedia.org/wiki/Melvil_Dewey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12513#A-Classification-and-Subject-Index-for-Cataloguing-and-Arranging-the-Books-and-Pamphlets-of-a_
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
 identifiers:
